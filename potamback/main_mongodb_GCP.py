@@ -1,14 +1,12 @@
-import json
-from flask import Flask, jsonify, request, make_response
+from flask import jsonify
 import pymongo
+import os
 
-import functions_framework
-@functions_framework.http
+password = os.environ.get('atlas_password')
+
 def hello_http(request):
 
   if request.method == 'OPTIONS':
-        # Allows GET requests from any origin with the Content-Type
-        # header and caches preflight response for an 3600s
     headers = {
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'POST',
@@ -24,11 +22,8 @@ def hello_http(request):
   print(request)
   print(request.method)
 
-  connexion_string = ''
-
-
   client = pymongo.MongoClient(
-      connexion_string)
+      f'mongodb+srv://Quentin:{password}@cluster0.k3273.mongodb.net/?retryWrites=true&w=majority')
   db = client.test
   collection = db["potamDB"]
   print('connected')
@@ -66,12 +61,4 @@ def hello_http(request):
   r = {"$and": [ {"Type": { "$in": data['Type'] } }, {"Ville": { "$in": data['Ville'] } }]}
   places = [get_data(i) for i in collection.find( r )]
 
-
-  
-
-  
   return (jsonify(places), 200, headers)
-
-
-
-
