@@ -47,7 +47,7 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 45,2.3759872,48.854815,Fréquence,75011,France,bar,,,,20 Rue Keller,https://axwwgrkdco.cloudimg.io/v7/lefooding.com/medias/2021/07/18_29_00_112_bar_frequence_paris.JPG?width=1440&height=960&optipress=3
 46,2.3734617,48.8627195,Dirty Lemon,75011,France,bar,,,,24 Rue de la Folie Méricourt,https://media.timeout.com/images/105586840/image.jpg
 47,2.35072,48.8752266,Divine,75010,France,bar,,,,61 Rue d'Hauteville,https://www.infosbar.com/photo/art/grande/41101038-34626863.jpg?v=1560265286
-48,2.339409,48.8765783,RAP Epicerie Fine Italienne,75009,France,epiceriefine,,,,4 Rue Flechier,http://www.rapparis.fr/public/img/big/photo%20laurence%20von%20rap.jpg
+48,2.339409,48.8765783,RAP Epicerie Fine Italienne,75009,France,epicerie_fine,,,,4 Rue Flechier,http://www.rapparis.fr/public/img/big/photo%20laurence%20von%20rap.jpg
 49,,,Au Bout Du Champ - LEVALLOIS-PERRET,Levallois,France,primeur,,,,4 rue Camille Pelletan,https://images.squarespace-cdn.com/content/v1/5911dea6be6594c7be2466d5/1549967306244-YX3Q9AW8GEZB2OMXOQ5V/au+bout+du+champ?format=1000w
 50,,,Au Bout Du Champ - PARIS 9,75009,France,primeur,,,,16  rue des Martyrs,https://images.squarespace-cdn.com/content/v1/5911dea6be6594c7be2466d5/1549967306244-YX3Q9AW8GEZB2OMXOQ5V/au+bout+du+champ?format=1000w
 51,,,Au Bout Du Champ - PARIS 11,75011,France,primeur,,,,44  rue Oberkampf,https://images.squarespace-cdn.com/content/v1/5911dea6be6594c7be2466d5/1549967306244-YX3Q9AW8GEZB2OMXOQ5V/au+bout+du+champ?format=1000w
@@ -60,40 +60,40 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 58,,,Au Bout Du Champ - PARIS 19,75019,France,primeur,,,,9  avenue Secrétan,https://images.squarespace-cdn.com/content/v1/5911dea6be6594c7be2466d5/1549967306244-YX3Q9AW8GEZB2OMXOQ5V/au+bout+du+champ?format=1000w
 59,,,Au Bout Du Champ - PARIS 20,75020,France,primeur,,,,140  rue de Belleville,https://images.squarespace-cdn.com/content/v1/5911dea6be6594c7be2466d5/1549967306244-YX3Q9AW8GEZB2OMXOQ5V/au+bout+du+champ?format=1000w
 60,,,Au Bout Du Champ - PARIS 20,75020,France,primeur,,,,220  rue des Pyrénées,https://images.squarespace-cdn.com/content/v1/5911dea6be6594c7be2466d5/1549967306244-YX3Q9AW8GEZB2OMXOQ5V/au+bout+du+champ?format=1000w
-61,2.3237801,48.8502785,La Grande Épicerie de Paris 7,75007,France,epiceriefine/boucherie/poissonerie/primeur/vins,,,,38 Rue de Sèvres,https://www.sortiraparis.com/images/80/14066/117601-la-table-de-la-grande-epicerie-de-paris.jpg
-62,,,La Grande Épicerie de Paris 16,75016,France,epiceriefine/boucherie/poissonerie/primeur/vins,,,,80 Rue de Passy,https://www.lagrandeepicerie.com/dw/image/v2/BBWG_PRD/on/demandware.static/-/Library-Sites-LGEsharedLibrary/default/dw7806705b/Magasins/grande-epicerie-rive-droite.jpg
+61,2.3237801,48.8502785,La Grande Épicerie de Paris 7,75007,France,epicerie_fine/boucherie/poissonerie/primeur/vins,,,,38 Rue de Sèvres,https://www.sortiraparis.com/images/80/14066/117601-la-table-de-la-grande-epicerie-de-paris.jpg
+62,,,La Grande Épicerie de Paris 16,75016,France,epicerie_fine/boucherie/poissonerie/primeur/vins,,,,80 Rue de Passy,https://www.lagrandeepicerie.com/dw/image/v2/BBWG_PRD/on/demandware.static/-/Library-Sites-LGEsharedLibrary/default/dw7806705b/Magasins/grande-epicerie-rive-droite.jpg
 63,,,Boucherie Terroir d'Avenir - rue du Nil,75002,France,boucherie,,,,6 rue du Nil,https://frenchfoodcapital.com/wp-content/uploads/2020/11/ta4-1.jpg
 64,,,Boulangerie Terroir d'Avenir - rue du Nil,75002,France,boulangerie/patisserie,,,,3 rue du Nil,http://painrisien.com/wp-content/uploads/2015/12/DSC07782-1024x681.jpg
-65,,,Crèmerie Terroir d'Avenir - rue du Nil,75002,France,crèmerie,,,,8 rue du Nil,https://www.leguidedufromage.com/files/1/2009091817290.jpg
+65,,,Crèmerie Terroir d'Avenir - rue du Nil,75002,France,cremerie,,,,8 rue du Nil,https://www.leguidedufromage.com/files/1/2009091817290.jpg
 66,,,ÉPICERIE – PRIMEUR Terroir d'Avenir - rue du Nil,75002,France,epiceriefine/primeur,,,,7 rue du Nil,https://uploads.lebonbon.fr/source/2019/paris/decembre/mel/terroir/terroir2.jpg
 67,,,Poissonerie Terroir d'Avenir - rue du Nil,75002,France,poissonerie,,,,8 rue du Nil,https://www.francetvinfo.fr/pictures/eIDme3dLb9HGaRpn2nG54cirlyU/fit-in/720x/2016/11/02/phpqfsByQ_1.jpg
 68,,,Boucherie Terroir d'Avenir - rue Paul Bert,75011,France,boucherie,,,,2 rue Paul Bert,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/place/55/97/7/originale.jpg?itok=T1k4aztT
 69,,,Boulangerie Terroir d'Avenir - rue Paul Bert,75011,France,boulangerie/patisserie,,,,8 rue Paul Bert,https://www.ydcreation.com/wp-content/uploads/2020/10/PEPS_boulangerie-terroir-8.jpg
-70,,,ÉPICERIE – PRIMEUR – CRÈMERIE Terroir d'Avenir - rue Paul Bert,75011,France,epiceriefine/primeur/crèmerie,,,,5 rue Paul Bert,https://kissmychef.com/wp-content/uploads/2020/07/12120135_1008067242577683_4122652374377216832_o-e1488101968901.jpg
+70,,,ÉPICERIE – PRIMEUR – CRÈMERIE Terroir d'Avenir - rue Paul Bert,75011,France,epiceriefine/primeur/cremerie,,,,5 rue Paul Bert,https://kissmychef.com/wp-content/uploads/2020/07/12120135_1008067242577683_4122652374377216832_o-e1488101968901.jpg
 71,,,Boucherie Terroir d'Avenir - RUE JEAN-PIERRE TIMBAUD,75011,France,boucherie,,,,84 rue Jean-Pierre Timbaud,https://parisbymouth.com/wp-content/uploads/2014/11/DSC0190011.jpg
-72,,,ÉPICERIE – PRIMEUR – CRÈMERIE Terroir d'Avenir -  RUE JEAN-PIERRE TIMBAUD,75011,France,epiceriefine/primeur/crèmerie,,,,85 rue Jean-Pierre Timbaud,http://painrisien.com/wp-content/uploads/2012/12/P1050382-1024x671.jpg
-73,,,ÉPICERIE – PRIMEUR – CRÈMERIE Terroir d'Avenir -  MONTREUIL,93100,France,epiceriefine/primeur/crèmerie,,,,9 rue du Capitaine Dreyfus,https://cdn-images.welcometothejungle.com/sSawo86X2akih8MlAAF2-wpNWHwu4JYgTB0LdsFtuAg/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9pbWFnZS9maWxlLzAxODAvMTU1NzQ5LzM2ZTI1OWI1LTE3MGItNDI0NC1iM2FhLWFhNjJhZjRjNzI2OC5KUEc
-74,,,Umami Matcha Café To Go,75017,France,coffeeshop/epiceriefine/brunch/the,,,,5 Rue Pierre Demours,https://media-cdn.tripadvisor.com/media/photo-s/1a/40/54/e5/umami-matcha-cafe-to.jpg
-75,2.3636103,48.8665548,Umami Matcha Café,75003,France,coffeeshop/epiceriefine/brunch/the,,,,22 Rue Béranger,https://media-cdn.tripadvisor.com/media/photo-s/0f/ee/a9/c9/brunch-umami.jpg
-76,,,Maison Plisson - Saint Honoré,75001,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,35 Place du Marché Saint-Honoré,https://media-cdn.tripadvisor.com/media/photo-s/14/56/92/5d/maison-plisson-35-place.jpg
-77,,,Maison Plisson - BEAUMARCHAIS,75003,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,93 Boulevard Beaumarchais,http://s3.eu-west-1.amazonaws.com/assets2.franklinazzi.transfer/news/featureds/000/000/211/medium/FAA_MAISON_PLISSON_MARCHE_BD_2_%C2%A9_Alexandre_Tabaste.jpg?1539768308
-78,-1.6089881,43.4223227,Yaoya,Guéthary,France,epiceriefine/primeur/boulangerie,,,,251 Av. du Général de Gaulle,https://www.milkdecoration.com/wp-content/uploads/2020/01/dsc_8623.jpg
-79,,,Terra Gourma,Levallois Perret,France,epiceriefine/vins,,,,79 rue Voltaire,https://www.messageinawindow.com/photos/windows/13592/de724480bfaa1ad959839b2a059f7e75.jpg
-80,,,Fromagerie Beaufils - Paris 14,75014,France,crèmerie,,,,100 rue Raymond Losserand,http://www.fromagerie-beaufils.com/s/cc_images/cache_2468223022.jpg?t=1496850368
-81,,,Fromagerie Beaufils - Paris 20,75020,France,crèmerie,,,,118 rue de Belleville,http://www.fromagerie-beaufils.com/s/cc_images/cache_2468223022.jpg?t=1496850368
-82,,,Fromagerie Beaufils - Paris 14,75009,France,crèmerie,,,,20 rue Cadet,http://www.fromagerie-beaufils.com/s/cc_images/cache_2468223022.jpg?t=1496850368
+72,,,ÉPICERIE – PRIMEUR – CRÈMERIE Terroir d'Avenir -  RUE JEAN-PIERRE TIMBAUD,75011,France,epiceriefine/primeur/cremerie,,,,85 rue Jean-Pierre Timbaud,http://painrisien.com/wp-content/uploads/2012/12/P1050382-1024x671.jpg
+73,,,ÉPICERIE – PRIMEUR – CRÈMERIE Terroir d'Avenir -  MONTREUIL,93100,France,epiceriefine/primeur/cremerie,,,,9 rue du Capitaine Dreyfus,https://cdn-images.welcometothejungle.com/sSawo86X2akih8MlAAF2-wpNWHwu4JYgTB0LdsFtuAg/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9pbWFnZS9maWxlLzAxODAvMTU1NzQ5LzM2ZTI1OWI1LTE3MGItNDI0NC1iM2FhLWFhNjJhZjRjNzI2OC5KUEc
+74,,,Umami Matcha Café To Go,75017,France,coffee_shop/epicerie_fine/brunch/the,,,,5 Rue Pierre Demours,https://media-cdn.tripadvisor.com/media/photo-s/1a/40/54/e5/umami-matcha-cafe-to.jpg
+75,2.3636103,48.8665548,Umami Matcha Café,75003,France,coffee_shop/epicerie_fine/brunch/the,,,,22 Rue Béranger,https://media-cdn.tripadvisor.com/media/photo-s/0f/ee/a9/c9/brunch-umami.jpg
+76,,,Maison Plisson - Saint Honoré,75001,France,epicerie_fine/primeur/cremerie/boucherie/vins/boulangerie,,,,35 Place du Marché Saint-Honoré,https://media-cdn.tripadvisor.com/media/photo-s/14/56/92/5d/maison-plisson-35-place.jpg
+77,,,Maison Plisson - BEAUMARCHAIS,75003,France,epicerie_fine/primeur/cremerie/boucherie/vins/boulangerie,,,,93 Boulevard Beaumarchais,http://s3.eu-west-1.amazonaws.com/assets2.franklinazzi.transfer/news/featureds/000/000/211/medium/FAA_MAISON_PLISSON_MARCHE_BD_2_%C2%A9_Alexandre_Tabaste.jpg?1539768308
+78,-1.6089881,43.4223227,Yaoya,Guéthary,France,epicerie_fine/primeur/boulangerie,,,,251 Av. du Général de Gaulle,https://www.milkdecoration.com/wp-content/uploads/2020/01/dsc_8623.jpg
+79,,,Terra Gourma,Levallois Perret,France,epicerie_fine/vins,,,,79 rue Voltaire,https://www.messageinawindow.com/photos/windows/13592/de724480bfaa1ad959839b2a059f7e75.jpg
+80,,,Fromagerie Beaufils - Paris 14,75014,France,cremerie,,,,100 rue Raymond Losserand,http://www.fromagerie-beaufils.com/s/cc_images/cache_2468223022.jpg?t=1496850368
+81,,,Fromagerie Beaufils - Paris 20,75020,France,cremerie,,,,118 rue de Belleville,http://www.fromagerie-beaufils.com/s/cc_images/cache_2468223022.jpg?t=1496850368
+82,,,Fromagerie Beaufils - Paris 14,75009,France,cremerie,,,,20 rue Cadet,http://www.fromagerie-beaufils.com/s/cc_images/cache_2468223022.jpg?t=1496850368
 83,2.3360435,48.867575,Epices Roellinger Paris,75002,France,épices,,,,51 bis Rue Sainte-Anne,https://ailmacocotte.com/wp-content/uploads/2018/04/31686_Epices-Roellinger-.jpg
-84,2.3055702,48.8564772,Fromager Marie-Anne Cantin,75007,France,crèmerie,,,,12 Rue du Champ de Mars,https://www.academiedugout.fr/images/13777/1200-auto/carnet_from_cantin_6797.jpg?poix=50&poiy=50
+84,2.3055702,48.8564772,Fromager Marie-Anne Cantin,75007,France,cremerie,,,,12 Rue du Champ de Mars,https://www.academiedugout.fr/images/13777/1200-auto/carnet_from_cantin_6797.jpg?poix=50&poiy=50
 85,2.3055815,48.8576963,Lastre Sans Apostrophe,75007,France,boucherie,,,,188 Rue de Grenelle,http://www.leblogdeboulogne.com/wp-content/uploads/2018/03/IMG_5224.jpg
-86,2.3618865,48.8547591,Fromagerie Laurent Dubois Bastille,75004,France,crèmerie,,,,97-99 Rue Saint-Antoine,https://www.etivaz-aop.ch/Media/preview/77275be7aaa8c0a44cdaa783ef47a0505bbdf0f9a3d191.73539139/1280/1280/Fgie_Dubois_Bastille_Int%C3%A9rieur%20magasin%202.jpg
+86,2.3618865,48.8547591,Fromagerie Laurent Dubois Bastille,75004,France,cremerie,,,,97-99 Rue Saint-Antoine,https://www.etivaz-aop.ch/Media/preview/77275be7aaa8c0a44cdaa783ef47a0505bbdf0f9a3d191.73539139/1280/1280/Fgie_Dubois_Bastille_Int%C3%A9rieur%20magasin%202.jpg
 87,,,Boucherie Le Bourdonnec - Paris 6,75006,France,boucherie,,,,43 Rue du Cherche-Midi,https://assets.justacote.com/photos_entreprises/le-bourdonnec-au-carre-paris-147160770475.jpg
 88,,,Boucherie Le Bourdonnec - Paris 17,75017,France,boucherie,,,,51 Rue de Lévis,https://assets.justacote.com/photos_entreprises/le-bourdonnec-au-carre-paris-147160770475.jpg
 89,,,Boucherie Le Bourdonnec - Paris 7,75007,France,boucherie,,,,208 bis Rue de Grenelle,https://assets.justacote.com/photos_entreprises/le-bourdonnec-au-carre-paris-147160770475.jpg
 90,3.0581836,50.6442954,Nonādeli,Lille,France,sur_le_pouce/epicerie_fine/primeur,,,,48 Rue Saint-André,
 91,5.379091,43.2958049,Epicerie l'Ideal,13001,France,sur_le_pouce/epicerie_fine/primeur/neobistrot,,,,11 Rue d'Aubagne,https://www.le-grand-pastis.com/wp-content/uploads/2020/10/epicerie-lideal-ambiance.jpg
-92,2.3516656,48.8909286,La Laiterie de Paris,75018,France,crèmerie,,,,74 Rue des Poissonniers,https://mkrs.family/media/pages/places/la-laiterie-de-paris/2bfc43fdcf-1591805184/img_1477.jpg
-93,-2.0253603,48.6481821,La Maison du Beurre Bordier,Saint Malo,France,crèmerie,,,,9 rue de l’Orme,https://cdt35.media.tourinsoft.eu/upload/DEGBRE035V5137TM-2.jpg
-94,2.342127,48.8741,MONBLEU Faubourg Montmartre,75009,France,crèmerie/bistro,,,,37 Rue du Faubourg Montmartre,https://www.leshardis.com/wp-content/uploads/2019/06/Monbleu-Restaurant-Paris.jpg
+92,2.3516656,48.8909286,La Laiterie de Paris,75018,France,cremerie,,,,74 Rue des Poissonniers,https://mkrs.family/media/pages/places/la-laiterie-de-paris/2bfc43fdcf-1591805184/img_1477.jpg
+93,-2.0253603,48.6481821,La Maison du Beurre Bordier,Saint Malo,France,cremerie,,,,9 rue de l’Orme,https://cdt35.media.tourinsoft.eu/upload/DEGBRE035V5137TM-2.jpg
+94,2.342127,48.8741,MONBLEU Faubourg Montmartre,75009,France,cremerie/bistro,,,,37 Rue du Faubourg Montmartre,https://www.leshardis.com/wp-content/uploads/2019/06/Monbleu-Restaurant-Paris.jpg
 95,2.316611,48.8347856,Chez Victor,75014,France,sur_le_pouce/epicerie_fine/primeur,,,,73 rue Pernety,http://surletagereduhaut.fr/wp-content/uploads/2017/11/Chez-Victor1.jpg
 96,,,Maison Vérot - Paris 6,75006,France,boucherie,,,,3 rue Notre-Dame des Champs,https://media-cdn.tripadvisor.com/media/photo-s/13/0f/62/bc/maison-verot.jpg
 97,,,Maison Vérot - Paris 3,75003,France,boucherie,,,,38 rue de Bretagne,https://media-cdn.tripadvisor.com/media/photo-s/13/0f/62/bc/maison-verot.jpg
@@ -102,32 +102,32 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 100,2.359137,48.8674246,Kilikio - Traiteur Grec,75018,France,epicerie_fine,,,,44 Rue des Abbesses,https://images.squarespace-cdn.com/content/v1/5c57ee53fd67934e24b9df1e/1551694075480-VT0F5AD76WK5V8MFZIYA/Kilikio-07.jpg
 101,,,Epicerie japonaise Kanae - Paris 5,75005,France,epicerie_fine,,,,29 Pl. Maubert,http://4.bp.blogspot.com/-gA5x8AhcOYo/T33tkYjz2GI/AAAAAAAAAQs/Er9gAx3T5iA/s1600/kanae1.jpg
 102,,,Epicerie japonaise Kanae - Paris 15,75015,France,epicerie_fine,,,,118 Rue Lecourbe,http://4.bp.blogspot.com/-gA5x8AhcOYo/T33tkYjz2GI/AAAAAAAAAQs/Er9gAx3T5iA/s1600/kanae1.jpg
-103,6.1246913,45.9027784,Pierre Gay - Annecy,Annecy,France,crèmerie,,,,47 Rue Carnot,https://www.tome-des-bauges.com/medias/images/prestataires/magasin-pierre-gay-250.jpg
+103,6.1246913,45.9027784,Pierre Gay - Annecy,Annecy,France,cremerie,,,,47 Rue Carnot,https://www.tome-des-bauges.com/medias/images/prestataires/magasin-pierre-gay-250.jpg
 104,,,SoumSoum - Paris 8,75008,France,moyen_orient,,,,59 Rue de Miromesnil,https://www.alloj.com/media/cache/petite_gallery_bloc_paysage/uploads/restaurant-cacher/soumsoum-paris-8eme/slider/gallery/cropped/e2d6215c926fb2f8748891bda2aea2646aa1f3d9.jpg
 105,,,SoumSoum - Paris 11,75011,France,moyen_orient,,,,144 Bd Voltaire,https://www.alloj.com/media/cache/petite_gallery_bloc_paysage/uploads/restaurant-cacher/soumsoum-paris-8eme/slider/gallery/cropped/e2d6215c926fb2f8748891bda2aea2646aa1f3d9.jpg
 106,4.6288736,43.6760581,L'Épicerie du Cloître,Arles,France,sur_le_pouce/epicerie_fine/primeur,,,,16 Rue du Cloître,https://www.pagesjaunes.fr/media/agc/22/ca/62/00/00/4f/66/69/65/df/602e22ca6200004f666965df/602e22ca6200004f666965e0.jpg
 107,12.4786412,41.8790835,Salumeria Volpetti,Rome,Italie,epicerie_fine/boucherie/cremerie,,,,Via Marmorata  47,https://live.staticflickr.com/4464/37064993274_8411c0a0f4_b.jpg
-108,2.3860475,48.8687923,Creme,75020,France,crèmerie/vins,,,,6 Rue Julien Lacroix,https://www.lefoodmarket.fr/sites/default/files/styles/adressefullwidth/public/images/adresses/diaporama/p1120280.jpeg?itok=a-cUYx1-
+108,2.3860475,48.8687923,Creme,75020,France,cremerie/vins,,,,6 Rue Julien Lacroix,https://www.lefoodmarket.fr/sites/default/files/styles/adressefullwidth/public/images/adresses/diaporama/p1120280.jpeg?itok=a-cUYx1-
 109,2.3010287,48.8569275,Arnaud Nicolas restaurant-boutique,75007,France,boucherie/bistro,,,,46 Av. de la Bourdonnais,https://www.thesocialitefamily.com/wp-content/uploads/2017/12/arnaud_nicolas-49-1290x772.jpg
 110,2.341971,48.8899137,Charcuterie Arnaud NICOLAS,75018,France,boucherie,,,,125 Rue Caulaincourt,https://www.sortiraparis.com/images/80/92559/601235-charcuterie-arnaud-nicolas.jpg
 111,2.3394996,48.8781182,Maison Thielen Charcuterie - Traiteur,75009,France,boucherie,,,,21 Rue des Martyrs,https://www.pagesjaunes.fr/media/ugc/maison_thielen_07505600_131347898
 112,2.3779092,48.889775,Epicerie MIAM,75019,France,epicerie_fine/boucherie/cremerie/primeur,,,,168 Rue de Crimée,https://images.midilibre.fr/api/v1/images/view/61a5a3b73e45461e18274cdb/large/image.jpg?v=1
-113,2.3398906,48.8932909,Au Lait Cru Fromagerie,75018,France,crèmerie,,,,114 Rue Ordener,https://pbs.twimg.com/media/D-4aZCKWsAApheD.jpg
-114,,,Humphris - Paris 9,75009,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,2 Rue Milton,https://cdn.radiofrance.fr/s3/cruiser-production/2020/09/7f9fb8c8-c198-482f-b1de-e08fb1e4c7c8/870x489_whatsapp_image_2020-09-04_at_12.08.45.jpg
-115,,,Humphris - Paris 18,75018,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,74 Rue des Poissonniers,"https://static.wixstatic.com/media/7b3390_92874d1040844097a1ccd54cb2087672~mv2_d_3456_5184_s_4_2.jpg/v1/fill/w_1000,h_1500,al_c,q_90,usm_0.66_1.00_0.01/7b3390_92874d1040844097a1ccd54cb2087672~mv2_d_3456_5184_s_4_2.jpg"
+113,2.3398906,48.8932909,Au Lait Cru Fromagerie,75018,France,cremerie,,,,114 Rue Ordener,https://pbs.twimg.com/media/D-4aZCKWsAApheD.jpg
+114,,,Humphris - Paris 9,75009,France,epiceriefine/primeur/cremerie/boucherie/vins/boulangerie,,,,2 Rue Milton,https://cdn.radiofrance.fr/s3/cruiser-production/2020/09/7f9fb8c8-c198-482f-b1de-e08fb1e4c7c8/870x489_whatsapp_image_2020-09-04_at_12.08.45.jpg
+115,,,Humphris - Paris 18,75018,France,epiceriefine/primeur/cremerie/boucherie/vins/boulangerie,,,,74 Rue des Poissonniers,"https://static.wixstatic.com/media/7b3390_92874d1040844097a1ccd54cb2087672~mv2_d_3456_5184_s_4_2.jpg/v1/fill/w_1000,h_1500,al_c,q_90,usm_0.66_1.00_0.01/7b3390_92874d1040844097a1ccd54cb2087672~mv2_d_3456_5184_s_4_2.jpg"
 116,2.3343492,48.8943737,Le marché par Bonne Femme,75018,France,sur_le_pouce,,,,5 Rue du Marché Ordener,https://www.bonnefemmelemarche.com/wp-content/uploads/2020/10/le-marche-bonne-femme.png
 117,2.4432364,48.863785,Archi-Boucher,93100,France,boucherie,,,,22 Rue de l'Église,http://www.boma-architectes.com/realisations_img/639/boma-architectes-archiboucher_montreuil-boma-archiboucher-02.jpg
 118,2.4021845,48.8680233,Jeanine et Christiane,75020,France,boucherie,,,,8 Rue du Surmelin,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/ll_jeanine_et_christiane_06.jpg?itok=Qu4ASP7F
-119,2.3538392,48.8721462,TAKA & VERMO - Artisans Fromagers,75010,France,crèmerie,,,,61bis Rue du Faubourg Saint-Denis,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/place/78/20/3/originale.jpg?itok=6YPYR_4X
-120,2.3537448,48.8485255,Ottanta,75005,France,epicerie_fine/crèmerie/vins,,,,6 Rue de l'Arbalète,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/ladispensadiottanta01.jpg?itok=-Ul7M-YM
+119,2.3538392,48.8721462,TAKA & VERMO - Artisans Fromagers,75010,France,cremerie,,,,61bis Rue du Faubourg Saint-Denis,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/place/78/20/3/originale.jpg?itok=6YPYR_4X
+120,2.3537448,48.8485255,Ottanta,75005,France,epicerie_fine/cremerie/vins,,,,6 Rue de l'Arbalète,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/ladispensadiottanta01.jpg?itok=-Ul7M-YM
 121,-1.5510809,43.4859914,Sébastien Zozaya - Meilleur Ouvrier de France - Biarritz,Biarritz,France,boucherie,,,,16 Rue de la Bergerie,https://www.sebastienzozaya.fr/images/content/contact/sebastien-zozaya-meilleur-ouvrier-de-france_contact_02.jpg
 122,,,Sébastien Zozaya - Meilleur Ouvrier de France - Anglet,Anglet,France,boucherie,,,,Halles des 5 Cantons,https://www.sebastienzozaya.fr/images/content/contact/sebastien-zozaya-meilleur-ouvrier-de-france_contact_02.jpg
 123,,,Sébastien Zozaya - Meilleur Ouvrier de France - Bayonne,Bayonne,France,boucherie,,,,17 Rue Poissonnerie,https://www.sebastienzozaya.fr/images/content/contact/sebastien-zozaya-meilleur-ouvrier-de-france_contact_02.jpg
-124,2.3394612,48.8781606,Berrie Martyrs,75009,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,21 Rue des Martyrs,https://i.f1g.fr/media/eidos/704x/2019/08/05/XVM1088b0f6-c68a-11ea-88ae-75fe16daa1bb-300x200.jpg
-125,2.3355589,48.8766772,Berrie Saint-Lazare,75009,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,39 Rue Saint-Lazare,https://www.pagesjaunes.fr/media/ugc/berrie_lunch_garde_manger_07505600_102910814
-126,2.3202369,48.8899008,Berrie Moines,75017,France,epiceriefine/primeur/crèmerie/boucherie/vins/boulangerie,,,,45 Rue des Moines,https://i.f1g.fr/media/eidos/704x/2019/08/05/XVM1088b0f6-c68a-11ea-88ae-75fe16daa1bb-300x200.jpg
-127,-3.6970244,40.4323227,Formaje,Madrid,Espagne,crèmerie,,,,Plaza de Chamberí  9,https://cdn.thespaces.com/wp-content/uploads/2021/03/FORMAJE_pablo-zamora_HERO.jpg
-128,2.3795163,48.8548442,Nanina,75011,France,crèmerie,,,,24 Rue Basfroi,https://axwwgrkdco.cloudimg.io/v7/lefooding.com/medias/2021/07/15_47_35_988_restaurant_nanina_paris.jpeg?width=1440&height=959&optipress=3
+124,2.3394612,48.8781606,Berrie Martyrs,75009,France,epiceriefine/primeur/cremerie/boucherie/vins/boulangerie,,,,21 Rue des Martyrs,https://i.f1g.fr/media/eidos/704x/2019/08/05/XVM1088b0f6-c68a-11ea-88ae-75fe16daa1bb-300x200.jpg
+125,2.3355589,48.8766772,Berrie Saint-Lazare,75009,France,epiceriefine/primeur/cremerie/boucherie/vins/boulangerie,,,,39 Rue Saint-Lazare,https://www.pagesjaunes.fr/media/ugc/berrie_lunch_garde_manger_07505600_102910814
+126,2.3202369,48.8899008,Berrie Moines,75017,France,epiceriefine/primeur/cremerie/boucherie/vins/boulangerie,,,,45 Rue des Moines,https://i.f1g.fr/media/eidos/704x/2019/08/05/XVM1088b0f6-c68a-11ea-88ae-75fe16daa1bb-300x200.jpg
+127,-3.6970244,40.4323227,Formaje,Madrid,Espagne,cremerie,,,,Plaza de Chamberí  9,https://cdn.thespaces.com/wp-content/uploads/2021/03/FORMAJE_pablo-zamora_HERO.jpg
+128,2.3795163,48.8548442,Nanina,75011,France,cremerie,,,,24 Rue Basfroi,https://axwwgrkdco.cloudimg.io/v7/lefooding.com/medias/2021/07/15_47_35_988_restaurant_nanina_paris.jpeg?width=1440&height=959&optipress=3
 129,2.372889,48.8583952,Ebisu Poissonnerie,75011,France,poissonerie/japonais,,,,30 Rue du Chemin Vert,https://www.petitscommerces.fr/wp-content/uploads/2019/05/poissonnerie-restaurant-ebisu-rue-du-chemin-vert-paris-11-poissons-frais-quiberon-patrick-fernandez-et-thi.jpg
 130,2.3492807,48.875758,Le Bel Ordinaire - Rive Gauche,75005,France,neobistrot,,,,5 Rue de Bazeilles,https://sortir.telerama.fr/sites/tr_master/files/styles/m_plus_640x360/public/assets/images/place/80/35/7/originale.jpg?itok=nbvvnRvD
 131,2.3420781,48.8643574,Restaurant Kei,75001,France,gastronomique,oui,,,5 Rue Coq Héron,https://www.atabula.com/wp-content/uploads/2019/04/couv-1.jpg
@@ -420,7 +420,7 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 418,2.826625,49.4206877,Les Ferlempins,Compiègne,France,neobistrot,,,,13 Cr Guynemer,https://media-cdn.tripadvisor.com/media/photo-p/12/e8/42/1a/les-ferlempins.jpg
 419,2.367232,48.863604,Le Clown Bar,75011,France,neobistrot/bar,,,,114 Rue Amelot,https://parisbymouth.com/wp-content/uploads/2017/07/Clown-Bar-restaurant-in-Paris-beef-tartare-anchovies-sureau.jpg
 420,2.3718376,48.8645807,Aux Deux Amis,75011,France,neobistrot/bar,,,,45 Rue Oberkampf,https://i.pinimg.com/originals/4a/a6/bf/4aa6bf016e0c1461299fd2ed17992b6a.jpg
-421,2.3362359,48.8661334,Restaurant Kunitoraya,75001,France,asiatique,,,,5 rue Villedo,https://i.f1g.fr/media/ext/299x250_cropcenter/scope.lefigaro.fr/static/media/srcimages/photo_huge_lieu_r249594_1.jpg
+421,2.3362359,48.8661334,Restaurant Kunitoraya,75001,France,asiatique,,,,1 Rue Villédo,https://i.f1g.fr/media/ext/299x250_cropcenter/scope.lefigaro.fr/static/media/srcimages/photo_huge_lieu_r249594_1.jpg
 422,,,Kunitoraya - Udon Bistro,75001,France,asiatique,,,,41 Rue de Richelieu,https://i.f1g.fr/media/ext/299x250_cropcenter/scope.lefigaro.fr/static/media/srcimages/photo_huge_lieu_r249594_1.jpg
 423,2.3544485,48.8496723,Restaurant A.T,75005,France,neobistrot/gastronomique,,,,4bis Rue du Cardinal Lemoine,https://axwwgrkdco.cloudimg.io/v7/lefooding.com/medias/2021/07/10_58_31_209_restaurant_AT_paris_.jpg?width=672&height=448&optipress=3
 424,2.349221,48.8644809,RESTAURANT ERH,75002,France,neobistrot/gastronomique,,,,11 Rue Tiquetonne,https://www.sortiraparis.com/images/80/68502/288951-erh-le-restaurant-tout-en-elegance-de-la-maison-du-sake-4.jpg
@@ -478,14 +478,13 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 476,2.3723359,48.874196,Mulino Mulé,75010,France,brasserie/neobistrot/italien,,,,25 Rue Sainte-Marthe,https://img.over-blog-kiwi.com/2/55/12/01/20191114/ob_ce82b8_rigatoni-tomates-ricotta-mulino-mule-r.jpg
 477,2.367436,48.858096,Soon Grill,75003,France,asiatique,,,,78 Rue des Tournelles,https://www.doitinparis.com/files/2015/week_end/05/les_tables_qui_font_sensations/soon_plat.jpg
 478,2.356489,48.8744506,Takaramono,75010,France,asiatique/neobistrot,,,,3 Rue de la Fidélité,https://media-cdn.tripadvisor.com/media/photo-s/19/c7/07/84/hummus-de-petits-pois.jpg
-479,2.3691085,48.8651318,Le Rigmarole,75011,France,asiatique/neobistrot,,,,10 Rue du Grand Prieuré,https://media-cdn.tripadvisor.com/media/photo-s/14/26/9b/c2/img-20180808-211000-largejpg.jpg
+479,2.3691085,48.8651318,Le Rigmarole,75011,France,neobistrot,,,,10 Rue du Grand Prieuré,https://media-cdn.tripadvisor.com/media/photo-s/14/26/9b/c2/img-20180808-211000-largejpg.jpg
 480,2.344001,48.87304,SUMiBi KAZ,75009,France,asiatique,,,,11 Rue de Montyon,https://cdn.eat-list.fr/establishment/photo/gallery_photo/75009-paris-9/sumibi-kaz_136521_00f.jpg
 481,2.2997266,48.9142429,Youpi et Voilà,Gennevilliers,France,brasserie/neobistrot,,,,41 Av. des Grésillons,https://fulgurances.com/wp-content/uploads/2019/04/youpi2.jpg
 482,2.3435805,48.8795969,OMA,75009,France,asiatique/neobistrot,,,,44 Rue Rodier,"https://static.lexpress.fr/medias_11790/w_2048,h_1146,c_crop,x_0,y_96/w_1000,h_563,c_fill,g_north/v1522232313/3482-oma_6036556.jpg"
 483,2.3508061,48.8485595,CUCINA Mutualité,75005,France,italien,,,,20 Rue Saint-Victor,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6hteBeXauMMxzb1CMFGA05Y0YQzat3gQCA&usqp=CAU
 484,2.350105,48.8732428,Restaurant eels,75010,France,neobistrot,,,,27 Rue d'Hauteville,https://media-cdn.tripadvisor.com/media/photo-s/18/8b/bf/75/eel-appetizer.jpg
 485,2.3315551,48.8802354,Restaurant Addis Ethiopia,75009,France,moyen_orient,,,,52 Rue Blanche,https://media-cdn.tripadvisor.com/media/photo-p/12/44/a7/20/le-plat-du-pays-avec.jpg
-486,2.3516751,48.8773422,Yün Bistrot,75010,France,asiatique/neobistrot,,,,96 Rue d'Hauteville,https://2.bp.blogspot.com/-oeH88TPsHAs/XJ589gjPP8I/AAAAAAAAlxM/sMSMwWdV1r8l2mCYF9JFyi9bSsiEuRUwQCKgBGAs/s1600/yun-bistro-boeuf-pane.jpg
 487,2.2976485,48.8672796,Restaurant Substance,75116,France,neobistrot,,,,18 Rue de Chaillot,https://www.yonder.fr/sites/default/files/destinations/B-Restaurant-Substance-Filet%20mignon%20de%20cochon.jpg
 488,2.388381,48.858151,Yard,75011,France,neobistrot/bar/vins,,,,6 Rue de Mont-Louis,https://media.timeout.com/images/105586977/image.jpg
 489,2.3328924,48.8903736,Ētsi,75018,France,neobistrot,,,,23 Rue Eugène Carrière,https://1.bp.blogspot.com/-v7c2uBfC97M/WV0e3nbiDzI/AAAAAAAAn1o/BMQ4bDGO8DI6Uv8ZpH1W5QNLobadk_Y8ACLcBGAs/s1600/%25C4%2592tsi%2B2.jpg
@@ -512,7 +511,6 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 510,12.611192,55.690534,Amass Restaurant,Copenhague,Danemark,gastronomique/neobistrot,,,,Refshalevej 153  1432 København,https://i0.wp.com/andershusa.com/wp-content/uploads/2016/09/amass-refshaleoen-matt-orlando-new-nordic-fermented-potato-bread-copenhagen-denmark-scandinavia-restaurant-review-food-foodie-eat-eating-dine-dining-best-tips-guide-travel-2016-23.jpg?ssl=1
 511,2.3416459,48.8709479,Adar,75002,France,neobistrot,,,,49 Pass. des Panoramas,https://media-cdn.tripadvisor.com/media/photo-s/19/ef/c1/7e/houmous.jpg
 512,2.3445239,48.8725686,Pastore,75009,France,neobistrot/italien,,,,26 Rue Bergère,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZORSsHeHWYb_Qknwvf_gKLtIj3c96NlHFg&usqp=CAU
-513,2.3488491,48.8634661,Moussa L'Africain - Bistrot Afropéen,75001,France,moyen_orient,,,,21 Rue Pierre Lescot,http://aicnf.net/wp-content/uploads/MOUSSA-LAfricain-AICNF-Annuaire-Afro.jpg
 514,12.4774523,41.903788,Matricianella,Rome,Italie,italien,,,,Via del Leone  4  00186 Roma RM,https://media-cdn.tripadvisor.com/media/photo-s/1e/52/b2/32/nuova-cucina-a-vista.jpg
 515,12.4799599,41.8744824,Osteria Fratelli Mori,Rome,Italie,italien,,,,Via dei Conciatori  10  00154 Roma RM,https://media-cdn.tripadvisor.com/media/photo-s/06/bc/36/42/novecento.jpg
 516,12.4787312,41.8733134,Marigold Roma,Rome,Italie,brunch/coffee_shop/neobistrot/boulangerie,,,,Via Giovanni da Empoli  37  00154 Roma RM,
@@ -865,7 +863,6 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 863,-1.4196565,48.6007568,Auberge Sauvage,,,,,,,,
 864,-0.5778406,44.8359064,Baston,,,,,,,,
 865,4.8156366,47.0623609,Le Soleil,,,,,,,,
-866,2.3224231,48.8920597,Restaurant le 975,75017,,neobistrot,,,,25 Rue Guy Môquet,https://s3.eu-central-1.amazonaws.com/gm-production.com/media/photos/f6345ab4e485eac6cc644e9a484c68a1ebd1eecf/original.png
 867,2.3462779,48.8891161,Polissons,75018,,neobistrot,,,,35 Rue Ramey,https://img.over-blog-kiwi.com/2/55/12/01/20200229/ob_c09928_polissons-restaurant-paris-18.jpg
 868,2.346664,48.8809526,Restaurant Pétrelle,75009,,neobistrot,,,,34 Rue Petrelle,https://www.lesrestos.com/img/media/notation/2-petrelle8913.jpg
 869,2.3431072,48.8710299,Circonstances,75002,,brasserie/neobistrot,,,,174 Rue Montmartre,https://media-cdn.tripadvisor.com/media/photo-s/05/26/cf/1d/dos-de-cabillaud-aux.jpg
@@ -932,3 +929,128 @@ numero,Lat,Long,Nom,Ville,Pays,Type,star,isReservable,horaires,adresse,photo
 930,2.3318359,48.8486408,Sôma Sando,75006,,asiatique/sur_le_pouce,,,,62 Rue de Vaugirard,http://restaurants-soma.fr/images/portfolio/portfolio-soma23.jpg
 931,2.3666679,48.8801863,ROUND,75010,,sur_le_pouce/burger,,,,25 Rue Louis Blanc,https://fr.newtable.com/uploads/medias/restaurants/images/thumbs/6183-photo1.png
 932,2.3416032,48.8567772,Ha Noi 1988,75001,,asiatique,,,,72 Quai des Orfèvres,"https://static.wixstatic.com/media/204731_edbbe82fa9ac42a0a3b139c45153597d~mv2.jpg/v1/fill/w_640,h_656,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/204731_edbbe82fa9ac42a0a3b139c45153597d~mv2.webp"
+933,,,FEEL LING,75116,,asiatique,,,,24 Rue Lauriston,https://lh3.googleusercontent.com/p/AF1QipON0h_3d_X_HjawYb2tzCVjrZr9h9ccWb6_dHKt=s1360-w1360-h1020
+934,,,Mi Perú,75012,,sur_le_pouce/brasserie,,,,7 Rue Rondelet,https://lh3.googleusercontent.com/p/AF1QipOh4ZvmV6vWQi_MjT99ZVx_wb7vUvpcEe9QiBNX=s1360-w1360-h1020
+935,,,Cuties,75002,,burger,,,,10 Pass. des Panoramas,https://lh3.googleusercontent.com/p/AF1QipO5dkFdopehZHFNtiKMCZKKo3lEY3Q1s-RFCzpl=s1360-w1360-h1020
+936,,,La Riposte restaurant,75009,,italien,,,,19 Rue de Bruxelles,https://lh3.googleusercontent.com/p/AF1QipO-_GLmEdEucSKdwVnFKV42vRlxn1pfVOe6HHl9=s1360-w1360-h1020
+937,,,Dumbo Petites-Écuries,75010,,burger,,,,14 R. des Petites Écuries,https://lh3.googleusercontent.com/p/AF1QipPGR2cWdlclgsgUtlPFICzR62B1ovmMx050q461=s1360-w1360-h1020
+938,,,La Monella Pizzeria,75017,,italien,,,,2 Rue Lemercier,https://lh3.googleusercontent.com/p/AF1QipOnIzBXs-ZvtYmCUYMS7XVsko2LB7TV5GuAdyJf=s1360-w1360-h1020
+939,,,Olive Chichen,75014,,asiatique,,,,6 Rue Poinsot,https://lh3.googleusercontent.com/p/AF1QipNwWKxLiPxyS0Zr2zPZerK_liOTTHxHgVhhg3lE=s1360-w1360-h1020
+940,,,Numéro 10,75009,,burger,,,,10 Rue Frochot,https://lh3.googleusercontent.com/p/AF1QipPzOMT7-gV2SW4Dr7xcoge02dk2YdmjXMl7oJZA=s1360-w1360-h1020
+941,,,Shabestan - Champs-Élysées,75008,,moyen_orient,,,,5 Rue du Commandant Rivière,https://lh3.googleusercontent.com/p/AF1QipOOE-xeG8dWBj8jpukSCvC0c8hMJfaoDCT-UJL6=s1360-w1360-h1020
+942,,,La Sabicherie,75011,,moyen_orient,,,,33 Rue du Faubourg Saint-Antoine,https://lh3.googleusercontent.com/p/AF1QipMHyxgKlWsf8poAe5-Yt31Zfw6M5jA9UzwxNoOT=s1360-w1360-h1020
+943,,,Dizen,75009,,moyen_orient,,,,27 Rue Pierre Fontaine,https://lh3.googleusercontent.com/p/AF1QipOSX8BQKcnSX0hsPrN-grO6XmaasH_GwW7uhf8D=s1360-w1360-h1020
+944,,,Au pactole Nedra traiteur,75017,,moyen_orient,,,,33 Rue Legendre,https://lh3.googleusercontent.com/p/AF1QipNSuD3IOy6A0e_wzaJ-_0SoKQ3vTaWApnNOzUs_=s1360-w1360-h1020
+945,,,Itegue Taitu,75019,,africain,,,,66 Rue Armand Carrel,https://lh3.googleusercontent.com/p/AF1QipMCK43LlvDEQdDKD-vCc__yx3prkk-ieZxYFQme=s1360-w1360-h1020
+946,,,Miam-Miam Cool,75009,,asiatique,,,,41 Rue de Provence,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eat-list.fr%2Fparis-9-75009%2Frestaurant-chinois-10%2Fmiam-miam-cool-136648&psig=AOvVaw2L1g_trs6V66oBWawYW6Lt&ust=1677517403596000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjkkLrVs_0CFQAAAAAdAAAAABAR
+947,,,Gumbo Yaya Chicken and Waffles,75010,,africain/sur_le_pouce,,,,3 Rue Charles Robin,https://lh3.googleusercontent.com/p/AF1QipMM7F6MCOg_kSImqsAbf00JYRDobp98TtygOlVC=s1360-w1360-h1020
+948,,,Baba Zulu,75010,,burger/sur_le_pouce,,,,23 Rue Beaurepaire,https://lh3.googleusercontent.com/p/AF1QipNMofNL1snnKCS3mkUSRYRZXpmvkc7hvv5LD3bT=s1360-w1360-h1020
+949,,,Sonny’s pizza,75011,,italien,,,,5 Rue de la Fontaine au Roi,https://lh3.googleusercontent.com/p/AF1QipMiw43clEQGDDFplqLQBbHol62Z06RkS7L9EZPu=s1360-w1360-h1020
+950,,,Meshuga,75006,,burger/sur_le_pouce,,,,3 Rue Vavin,https://lh3.googleusercontent.com/p/AF1QipP2sPWlcEdLk4YtbPymLMZanXHLQ2F1nKC_t-ch=s1360-w1360-h1020
+951,,,BIKINI Burger Joint,75010,,burger/sur_le_pouce,,,,29 Rue d'Enghien,https://lh3.googleusercontent.com/p/AF1QipNQk6TTPaJ5AfG63bUTV031dp_7gMtmQZsnhlZo=s1360-w1360-h1020
+952,,,Junk Montmartre,75002,,burger/sur_le_pouce,,,,114 Rue Montmartre,https://lh3.googleusercontent.com/p/AF1QipNPFaATmlTiD3xaHv4anyV0cfA8yqRMUAFACHUu=s1360-w1360-h1020
+953,,,JANET by Homer - Marais,75004,,burger/sur_le_pouce,,,,13 Rue Rambuteau,https://lh3.googleusercontent.com/p/AF1QipO704xPgvL6eh7_tk7K7ccZy5sC3QaFmZYh_RxH=s1360-w1360-h1020
+954,,,Bao Express,75011,,asiatique,,,,10 R. Bréguet,https://lh3.googleusercontent.com/p/AF1QipM4Y17SRE48386AlYniSsdlCpyt7zmm8vcV7En_=s1360-w1360-h1020
+955,,,Enni Udon,75008,,asiatique,,,,6 Rue de la Renaissance,https://lh3.googleusercontent.com/p/AF1QipMnquzZqbom15KF-pxy3U4kL4NvyXF_NGAqJWyq=s1360-w1360-h1020
+956,,,Chez Neung,75005,,asiatique,,,,70 Bd Saint-Marcel,https://lh3.googleusercontent.com/p/AF1QipOrd_qd_KQj6RWGeRkbj_5yI00cvP_Otl_mbsrs=s1360-w1360-h1020
+957,,,Xiang Piao Piao,75017,,asiatique,,,,4 Rue Davy,https://lh3.googleusercontent.com/p/AF1QipNDsCVK-McyxnNLrRm-Ki0Qcr7xlMypqzPlaD4u=s1360-w1360-h1020
+958,,,Spécimen Burger,75006,,burger/sur_le_pouce,,,,3 Rue Guisarde,https://lh3.googleusercontent.com/p/AF1QipMaTS3lFhVPkEAl1ZKYh4wjR5YQy58MKeKe9k-b=s1360-w1360-h1020
+959,,,Les Pantins,93500,,neobistrot,,,,6 Rue Victor Hugo,https://lh3.googleusercontent.com/p/AF1QipNlkjQWEP0IikomcgyC3SfGToHLZvUdCkawxVQO=s1360-w1360-h1020
+960,,,Zapi,75008,,italien,,,,20 Rue du Boccador,https://lh3.googleusercontent.com/p/AF1QipNKHsWtUjKKP1GKPI6RAIVe0_Ir4KtbT7mmJGRP=s1360-w1360-h1020
+961,,,Tawlet Paris,75011,,moyen_orient,,,,2 Rue de la Fontaine au Roi,https://lh3.googleusercontent.com/p/AF1QipPoXqSCCfyXGmNc1o2mDBO--lDemaRYxdMHJugd=s1360-w1360-h1020
+962,,,Soces,75019,,neobistrot,,,,32 Rue de la Villette,https://lh3.googleusercontent.com/p/AF1QipPBpW67Dsk8TF-Ynx8QNgd3Zya1qlBUQ4hHaEFJ=s1360-w1360-h1020
+963,,,L'Alimentari,75004,,italien,,,,6 Rue des Ecouffes,https://lh3.googleusercontent.com/p/AF1QipMyt-rmqbchTkBGWTg2wEfK7iraVVZACeqckM9d=s1360-w1360-h1020
+964,,,Jones,75011,,neobistrot,,,,43 Rue Godefroy Cavaignac,https://lh3.googleusercontent.com/p/AF1QipO_Sebk4XERrB_c3yyhoCiVGHUiH7OlHNTbWS9W=s1360-w1360-h1020
+965,,,Zakuro,75002,,asiatique,,,,4 Rue de Port-Mahon,https://lh3.googleusercontent.com/p/AF1QipPIzwQEprBdLMFxqhirQl0tCFyIbkFIeZ--aCxy=s1360-w1360-h1020
+966,,,Baca'v par Emile Cotte,75005,,neobistrot,,,,6 Rue des Fossés Saint-Marcel,https://lh3.googleusercontent.com/p/AF1QipPqUFY0Es95AaKpzcjfPKbnQ_KWFm6dIONHZh6J=s1360-w1360-h1020
+967,,,Ayadi Gourmet,75005,,moyen_orient,,,,17 Rue Frédéric Sauton,https://lh3.googleusercontent.com/p/AF1QipPWeXWnccdavJzMYKxVnMGTw2h1s8g1C-IAyduF=s1360-w1360-h1020
+968,,,Pianoterra,75011,,italien,,,,49 Rue Popincourt,https://lh3.googleusercontent.com/p/AF1QipOG-8gNps_NzJIHiTy7qe4AZgiymvcsKtzaLIA4=s1360-w1360-h1020
+969,,,Le Baratin,75020,,neobistrot,,,,3 Rue Jouye-Rouve,https://lh3.googleusercontent.com/p/AF1QipP_3eJS4NEA2qqnq_9nSpfolsWNNsXa29ivKbo=s1360-w1360-h1020
+970,,,Komatsubaki Paris,75008,,asiatique,,,,3 Rue d'Artois,https://lh3.googleusercontent.com/p/AF1QipN_u1_pc-bJVKwNoOwrv5Tfmv0z6ZVyY6UyRYr3=s1360-w1360-h1020
+971,,,Brigade du Tigre,75010,,asiatique/neobistrot,,,,38 Rue du Faubourg Poissonnière,https://lh3.googleusercontent.com/p/AF1QipM52_VY7iVU_TddjbpyovcyVBVm-67IwZ5FVc4u=s1360-w1360-h1020
+972,,,BangBang Restaurant,75020,,asiatique/neobistrot,,,,09 Rue du Liban,https://lh3.googleusercontent.com/p/AF1QipO0Rn91AFMAdSIE2ez3idHSd64QnTGsS-WRGVRM=s1360-w1360-h1020
+973,,,Jugaad,75002,,indien/neobistrot,,,,16 Rue Favart,https://lh3.googleusercontent.com/p/AF1QipOn4TfUJaNwUieOWPX3_AAkITdQ_wfl-Q-vHlkC=s1360-w1360-h1020
+974,,,"ecume, comptoir marin",75017,,neobistrot,,,,78 R. de Lévis,https://lh3.googleusercontent.com/p/AF1QipNhQZauqudohnXQ4KMbToUTaUgFber3iVlcQ0DA=s1360-w1360-h1020
+975,,,Acte II,75003,,neobistrot,,,,93 Rue Vieille-du-Temple,https://lh3.googleusercontent.com/p/AF1QipMHcBkE-T_Fx8HY8idhbt_Ko_8ylThz3BpvQHG3=s1360-w1360-h1020
+976,,,Misa Bulgogi,75017,,asiatique,,,,24 Rue Brey,https://lh3.googleusercontent.com/p/AF1QipN_VfOqdooSE67OaULBWVGrRO5rjspBhCgY6IW0=s1360-w1360-h1020
+977,,,KALYPSO Comptoir Marin,75017,,neobistrot,,,,19 Rue Brochant,https://lh3.googleusercontent.com/p/AF1QipM7yL5gBHePnuPu6eaMKLjSHhWVnG-ASQYhxOY=s1360-w1360-h1020
+978,,,Casa Di Peppe,75005,,italien,,,,222 Rue Saint-Jacques,https://lh3.googleusercontent.com/p/AF1QipPiyqj_FNfWV-6RGFTZq55lg2QnQ9XmyGJtrU-F=s1360-w1360-h1020
+979,,,L'Osteria Ruggera,75002,,italien,,,,35 Rue Tiquetonne,https://lh3.googleusercontent.com/p/AF1QipMO65HSchqHbYrYTiabpwAx_ySmkOnbicnl884=s1360-w1360-h1020
+980,,,Sur Mer,75010,,neobistrot,,,,53 Rue de Lancry,https://lh3.googleusercontent.com/p/AF1QipPK8vW469l9G2HZsKwxhRsVVbV0NSIEX-Ip08LP=s1360-w1360-h1020
+981,,,Freddy's,75006,,neobistrot,,,,54 Rue de Seine,https://lh3.googleusercontent.com/p/AF1QipMmLbdZU806Pgm1IPGZjB4pR-SQDJQaXohLxYzd=s1360-w1360-h1020
+982,,,Gargouille,75009,,neobistrot,,,,7 Rue Jean-Baptiste Pigalle,https://lh3.googleusercontent.com/p/AF1QipPHL_nAqzJEQ-WCfcNmkqnxibIEcKxSDAALIS41=s1360-w1360-h1020
+983,,,Terra,75003,,neobistrot,,,,21 Rue des Gravilliers,https://lh3.googleusercontent.com/p/AF1QipP0DA3oZkChMrM-GFo2lZ3Aqiv05_AWNWUcCFhO=s1360-w1360-h1020
+984,,,Brasserie Martin,75011,,brasserie,,,,24 Rue Saint-Ambroise,https://lh3.googleusercontent.com/p/AF1QipP_VS9CUKY2iszn4-_NNY308Rrmihsw5kpmNYWx=s1360-w1360-h1020
+985,,,Recoin,75011,,neobistrot,,,,60 Rue St Sabin,https://lh3.googleusercontent.com/p/AF1QipOYMPi8hFn8eAOwjbWyxYTjAL9woEvJcZZHEVL2=s1360-w1360-h1020
+986,,,Passionné Restaurant,75009,,neobistrot/gastronomique,,,,17 Rue Bergère,https://lh3.googleusercontent.com/p/AF1QipMe0mQQpZwoSk6KdPDx-OPvpycgQ3BvETqyKwVX=s1360-w1360-h1020
+987,,,BAANBECK,75004,,asiatique/neobistrot,,,,2 Quai Henri IV,https://lh3.googleusercontent.com/p/AF1QipPeXTpnXw8KkOoQR_MBQR27zsEkeuBPdmeP6XOg=s1360-w1360-h1020
+988,,,Magma,75011,,neobistrot,,,,9 Rue Jean-Pierre Timbaud,https://lh3.googleusercontent.com/p/AF1QipOy_J9mUKRWgoKRSsWIdeaZVkWl3NeqQTePUF-f=s1360-w1360-h1020
+989,,,Vive Restaurant,75017,,neobistrot,,,,62 Av. des Ternes,https://lh3.googleusercontent.com/p/AF1QipNjHpU1FWMc6C65boE36lKDdaJ2arum2BxoHz_O=s1360-w1360-h1020
+990,,,YUSHIN,92200,,asiatique,,,,77 Rue Chauveau,https://lh3.googleusercontent.com/p/AF1QipNOUIiGvn7JYeepYccNptMmFrAl1Ix0jLYQY0j7=s1360-w1360-h1020
+991,,,Les Oeillets,75011,,neobistrot,,,,137 Rue Saint-Maur,https://lh3.googleusercontent.com/p/AF1QipOMd5Q5WjDPClRcw8hx1ABkkoMvyycsfXJbIGYR=s1360-w1360-h1020
+992,,,HANDO Parisian Handroll,75006,,asiatique,,,,89 Rue de Sèvres,https://lh3.googleusercontent.com/p/AF1QipORUWAb4WZtZAwGzHxbTqe4MzQpv8sqRHTSPqil=s1360-w1360-h1020
+993,,,Mallory Gabsi,75017,,neobistrot/gastronomique,,,,28 Rue des Acacias,https://lh3.googleusercontent.com/p/AF1QipNJE-0UFCkA2fLfOsNH0Ut7_APDbWeY8zymq2IZ=s1360-w1360-h1020
+994,,,Restaurant TenZen,75001,,asiatique,,,,8 Rue de l'Échelle,https://lh3.googleusercontent.com/p/AF1QipMMYDEjUnh0tv3xz-HvfLdTt_cdagnLKPO5Io3i=s1360-w1360-h1020
+995,,,Mer & Coquillage Paris,75002,,neobistrot,,,,36 Rue des Petits Champs,https://lh3.googleusercontent.com/p/AF1QipOUSUIeeKffCFwlEp9f1q8DUCXLdP_mz6GCvtXQ=s1360-w1360-h1020
+996,,,CHARBON KUNITORAYA,75001,,asiatique/neobistrot,,,,5 Rue Villédo,https://lh3.googleusercontent.com/p/AF1QipPuiXosXsvpV3rSIHPoQUrHlv73-p6X9Sx_zzb8=s1360-w1360-h1020
+997,,,Sugaar,75006,,neobistrot,,,,5 Rue Gozlin,https://lh3.googleusercontent.com/p/AF1QipMlbgFAsuAHa2vJWmtexnSyeNSbiehgJ7_1nj2d=s1360-w1360-h1020
+998,,,Totto Restaurant,75012,,asiatique,,,,6 Rue Théophile Roussel,https://lh3.googleusercontent.com/p/AF1QipPrwhq6gQXhqQSdEH-iAlg4AbMymngBy3atEhiJ=s1360-w1360-h1020
+999,,,Localino,75006,,italien,,,,10 Rue de l'Odéon,https://lh3.googleusercontent.com/p/AF1QipOj1TBuJMb2_Gup-z2lvNVvV6MHVJHE_X29B05N=s1360-w1360-h1020
+1000,,,La Boucherie Grégoire,75006,,brasserie/neobistrot,,,,29 Rue de l'Abbé Grégoire,https://lh3.googleusercontent.com/p/AF1QipNj8YcP0GEQ7-V8ct_BN3v9fEB6ZeTPy9q8fErq=s1360-w1360-h1020
+1001,,,Chakaiseki Akiyoshi,75015,,asiatique,,,,59 Rue Letellier,https://lh3.googleusercontent.com/p/AF1QipN64l7QPn1vwKwYUpoJim51O8DgJYZxes-0_Qdj=s1360-w1360-h1020
+1002,,,Ryô,75001,,asiatique,,,,7 Rue des Moulins,https://lh3.googleusercontent.com/p/AF1QipOT9-YVY2j0blrFzCAhKhZJ3UZOY9SKWbWPLKTj=s1360-w1360-h1020
+1003,,,L’ascension,75009,,brasserie/neobistrot,,,,67 Rue de Clichy,https://lh3.googleusercontent.com/p/AF1QipPsZkOXvV6dmr-a29NhunNEiVQ_OQzZGqdJhCTh=s1360-w1360-h1020
+1004,,,Le Rubis,75002,,neobistrot,,,,14 Rue Léopold Bellan,https://lh3.googleusercontent.com/p/AF1QipNRwEz_M7hjco_S74UcMPhZZh3-JpZ7vvNKgNkm=s1360-w1360-h1020
+1005,,,Shang Palace,75116,,gastronomique/asiatique,,,,10 Av. d'Iéna,https://lh3.googleusercontent.com/p/AF1QipMgSbqsq-otQ4jRWUbRMLmmtfA8JOmsqYaBI9I=s1360-w1360-h1020
+1006,,,Restaurant Akrame,75008,,gastronomique,,,,7 Rue Tronchet,https://lh3.googleusercontent.com/p/AF1QipOtofU82q1ZwF3naBHP7qQ7d0mCO5un3B-uLHLo=s1360-w1360-h1020
+1007,,,Table,75012,,gastronomique,,,,3 R. de Prague,https://lh3.googleusercontent.com/p/AF1QipNsLSq2Sk1dslA35Em32l-2JrgBq_mWN5D9cesk=s1360-w1360-h1020
+1008,,,CLAIRE Heitzler,92300,,patisserie,,,,9 Rue du Parc,https://lh3.googleusercontent.com/p/AF1QipM0P1aZfCtsFH-slYaFqHNkgyP6XNPFQuY9eAPn=s1360-w1360-h1020
+1009,,,La Pépinière des Batignolles,75017,,brunch/coffee_shop/sur_le_pouce,,,,15 Rue des Dames,https://lh3.googleusercontent.com/p/AF1QipNOcxoilgXS-4x9zLKY2UOnFwsknicl8-G2C501=s1360-w1360-h1020
+1010,,,Bältis,75004,,glace,,,,27 Rue Saint-Antoine,https://lh3.googleusercontent.com/p/AF1QipMoEptPA4h0goWqm_boJWZxouMJ7sh1u_Vc8Hgx=s1360-w1360-h1020
+1011,,,Copains,75002,,boulangerie/patisserie,,,,60 Rue Tiquetonne,https://lh3.googleusercontent.com/p/AF1QipP3T5HtKTJBYxqq--eaTUchUVx5Cd-IxOvI_NQ=s1360-w1360-h1020
+1012,,,Brach Paris,75016,,patisserie,,,,1-7 Rue Jean Richepin,https://brachparis.com/wp-content/uploads/2023/01/06_Millefeuille2_hotel_luxe_paris.jpg
+1013,,,Jeffrey Cagnes Paris 17ème,75017,,patisserie,,,,24 Rue des Moines,https://lh3.googleusercontent.com/p/AF1QipMgXvtMDTEeBCuGN7MeqT4xtl87-qArhtW277Op=s1360-w1360-h1020
+1014,,,Jeffrey Cagnes Paris 2ème,75002,,patisserie,,,,73 Rue Montorgueil,https://lh3.googleusercontent.com/p/AF1QipP8HeifQiOq210pejacMf1jGiT_5jSdbC0qdo9E=s1360-w1360-h1020
+1015,,,Jade Genin,75002,,chocolatier,,,,33 Av. de l'Opéra,https://lh3.googleusercontent.com/p/AF1QipNTuCztqFnYGA6MKjROOVx8pjGo4dWGRdRcrQPw=s1360-w1360-h1020
+1016,,,Fou de Patisserie Batignolles,75017,,patisserie,,,,45 Rue des Batignolles,https://www.foudepatisserieboutique.fr/sites/default/files/styles/frontpage_sale_points/public/2022-12/IMG_3464.jpg?itok=GLRVOX94
+1017,,,CAFÉ NUANCES,75001,,coffee_shop,,,,25 Rue Danielle Casanova,https://lh3.googleusercontent.com/p/AF1QipPZ7URHs9i93v93SBGsfdkjynhMHEjljZ_AziuC=s1360-w1360-h1020
+1018,,,laïzé marais,75003,,coffee_shop/patisserie/asiatique,,,,19 Rue de Montmorency,https://lh3.googleusercontent.com/p/AF1QipMCKIjMtWQvVpljsOVhex-Sy7Y8MRuF7-3kEudV=s1360-w1360-h1020
+1019,,,Laïzé Opéra,75002,,coffee_shop/patisserie/asiatique,,,,68 Pass. Choiseul,https://lh3.googleusercontent.com/p/AF1QipNcl182N2Dp7xr3Hc1HM8WdJRD1dqN2ginSAwZP=s1360-w1360-h1020
+1020,,,Café Pimpin 17,75017,,coffee_shop/sur_le_pouce/brunch,,,,7 Rue Guy Môquet,https://lh3.googleusercontent.com/p/AF1QipPMWh9nWrtpPQnuA-FrVhoi6PKmlnEVjHLErfzZ=s1360-w1360-h1020
+1021,,,CADUCÉE Café Contemporain,75017,,coffee_shop/sur_le_pouce/brunch/neobistrot,,,,19 Rue Brochant,https://lh3.googleusercontent.com/p/AF1QipNJdnMtkmHyryDuACwQydRM3DpY1yJ9mJyl_1hW=s1360-w1360-h1020
+1022,,,WHITE Coffeeshop,75003,,coffee_shop,,,,56 Rue de Turenne,https://lh3.googleusercontent.com/p/AF1QipMFk3w76Jtw9xezqwbA9MHlg4iCLVNAMIiNekbC=s1360-w1360-h1020
+1023,,,Matcha Social Club,75001,,coffee_shop/glace,,,,39 Rue des Petits Champs,https://lh3.googleusercontent.com/p/AF1QipMXovCvWSWCueXmENJveSk9_qAtbL7B-FoA5clm=s1360-w1360-h1020
+1024,,,Clove Coffee Shop,75018,,coffee_shop,,,,14 Rue Chappe,https://lh3.googleusercontent.com/p/AF1QipMPAMZkma9QFkkVT6eBCSpZlHDnjJDxhGjj174P=s1360-w1360-h1020
+1025,,,The Dancing Goat,75020,,coffee_shop,,,,117 Av. Gambetta,https://lh3.googleusercontent.com/p/AF1QipNU9MSjDJsd8D-07RMxRWRA1oeVLMSW8llpWGFz=s1360-w1360-h1020
+1026,,,Café Cayo,75013,,coffee_shop/sur_le_pouce/brunch,,,,9 Rue du Chevaleret,https://lh3.googleusercontent.com/p/AF1QipPYAs2m5YicPynqTKEVGi6e4RjjaRfTboDHnwo=s1360-w1360-h1020
+1027,,,Café Caractère,75011,,coffee_shop,,,,2 Rue des Taillandiers,https://lh3.googleusercontent.com/p/AF1QipONm_wVuhV3b9t2Z-wOjt7wmPJ4CG2ofbPQemkP=s1360-w1360-h1020
+1028,,,DEVOTIONS Café,75018,,coffee_shop,,,,5 Rue Ramey,https://lh3.googleusercontent.com/p/AF1QipPdWkYrzhNcp1jO2rfucMHIUFx1El4tl3OmFqv7=s1360-w1360-h1020
+1029,,,GRAMME PARIS 11,75011,,coffee_shop/sur_le_pouce/brunch/neobistrot,,,,96 Rue Jean-Pierre Timbaud,https://lh3.googleusercontent.com/p/AF1QipMvFeI9Oi6iPoU82jYQtOpmyDnTntpqNPkuBHON=s1360-w1360-h1020
+1030,,,TOMMASO Café,75003,,coffee_shop/patisserie,,,,111 Bd Beaumarchais,https://lh3.googleusercontent.com/p/AF1QipP_XTE9KKqHcZ5IRwhZpGn02V68j8z9-q1P2oyZ=s1360-w1360-h1020
+1031,,,Mardi,75019,,coffee_shop/sur_le_pouce/brunch/neobistrot,,,,29 Rue de la Villette,https://lh3.googleusercontent.com/p/AF1QipOEh2xH2W9TEyTcon7yHT8patixe9urz4LWyZ2a=s1360-w1360-h1020
+1032,,,Noir - Coffee Shop & Torréfacteur,75007,,coffee_shop,,,,9 Rue de Luynes,https://lh3.googleusercontent.com/p/AF1QipPGxdQ4b479HQgPVDho6waIsvF-Y6EHsTXzgCxz=s1360-w1360-h1020
+1033,,,Noir - Coffee Shop & Torréfacteur,75008,,coffee_shop,,,,120 Bd Haussmann,https://lh3.googleusercontent.com/p/AF1QipOM4IBsWXe1XukUdqNLTt_6m8QT32gy_behKjj2=s1360-w1360-h1020
+1034,,,Noir - Coffee Shop & Torréfacteur,75001,,coffee_shop,,,,8 Rue Saint-Florentin,https://lh3.googleusercontent.com/p/AF1QipNS5jTT1TLXu5cdyHwcKaS0fari00szhppaRKHD=s1360-w1360-h1020
+1035,,,Noir - Coffee Shop & Torréfacteur,75004,,coffee_shop,,,,63 Rue Saint-Louis en l'Île,https://lh3.googleusercontent.com/p/AF1QipNESFKNpBlDGYYakuWyqTlQ7u9z56dZUY5ijO2x=s1360-w1360-h1020
+1036,,,One and a Half,75003,,coffee_shop,,,,14 Rue de Bretagne,https://lh3.googleusercontent.com/p/AF1QipMPLuBrTD1-aZpRNiRMQnnzWfgN5DvICFhtCtTI=s1360-w1360-h1020
+1037,,,Café Mātēr,75004,,neobistrot,,,,9 Rue du Plâtre,https://lh3.googleusercontent.com/p/AF1QipMhIXOAfcu9xp2JHcK8DTRiNnFZelY3X6SASxYV=s1360-w1360-h1020
+1038,,,Saint Pearl,75007,,coffee_shop/sur_le_pouce/brunch,,,,38 Rue des Saints-Pères,https://lh3.googleusercontent.com/p/AF1QipOSaJU_7rHdZbf386talRlVHqh3WAU-Ls-5BQ0l=s1360-w1360-h1020
+1039,,,RECTO VERSO CAFÉ,75003,,coffee_shop,,,,6 Rue Portefoin,https://lh3.googleusercontent.com/p/AF1QipN21w8XtcT3XaJPaxTZmsJmEDJLv6SC2SDq50Cc=s1360-w1360-h1020
+1040,,,Café Singuliers,75011,,coffee_shop/sur_le_pouce/brunch,,,,2 Rue Titon,https://lh3.googleusercontent.com/p/AF1QipNbLQrHT9cr2YAufsQjpkNADsqPgEQZt0xWjlH-=s1360-w1360-h1020
+1041,,,Inform Café,75017,,coffee_shop/sur_le_pouce/brunch,,,,25 Rue des Acacias,https://lh3.googleusercontent.com/p/AF1QipOgf2K2bW6z03Sqt7e_pyGH3wiP62Cpthgicu8X=s1360-w1360-h1020
+1042,,,Café Nuances,75006,,coffee_shop,,,,22 Rue du Vieux Colombier,https://lh3.googleusercontent.com/p/AF1QipNianPoh2HKPGFtd__AFKDCWCMmjw3p8R6wxt_s=s1360-w1360-h1020
+1043,,,Cafe Content,75011,,neobistrot,,,,11 Rue Saint-Maur,https://lh3.googleusercontent.com/p/AF1QipMZIYc_Hhb72-SELIABJ6iVYXWANI8r4cm8bDL6=s1360-w1360-h1020
+1044,,,Billot Club,75017,,boucherie,,,,105 Av. de Saint-Ouen,https://lh3.googleusercontent.com/p/AF1QipMRW5jtU01H4UH3-dbMtpeD1hmpWVaPB2KouDor=s1360-w1360-h1020
+1045,,,Kaviari Delikatessen - Martyrs,75009,,epicerie_fine,,,,56 R. des Martyrs,https://lh3.googleusercontent.com/p/AF1QipM1msC4Fw2M-ZfSGqRhQycPbfOqJGZYN0szzr-B=s1360-w1360-h1020
+1046,,,LiMONi,75011,,epicerie_fine,,,,20 Rue Saint-Ambroise,https://lh3.googleusercontent.com/p/AF1QipPto2wy5ZboJbnsGoFj5gNJMfw2yOhAS1RAYKH7=s1360-w1360-h1020
+1047,,,Fromaville - Laiterie Artisanale et Urbaine,93400,,cremerie,,,,10 Rue des Bateliers,https://lh3.googleusercontent.com/p/AF1QipOKq1Q6lOH4OSW9lFpC_tom369uAy9p2etkLSPk=s1360-w1360-h1020
+1048,,,La Bête Noire,75005,,coffee_shop/sur_le_pouce/brunch/neobistrot,,,,58 Rue Henri Barbusse,https://lh3.googleusercontent.com/p/AF1QipPTQEkeA0VrZ8MRYShBck5dSzxHIVx1x9ItX6F2=s1360-w1360-h1020
+1049,,,L'Agrumiste,75007,,epicerie_fine,,,,82 Rue de Sèvres,https://lh3.googleusercontent.com/p/AF1QipPQoJ2avsVdCxrpW8s5JE64kV6WOAmEomm31LhW=s1360-w1360-h1020
+1050,,,MAM,75017,,patisserie/neobistrot,,,,22 Rue Fourcroy,https://lh3.googleusercontent.com/p/AF1QipM4QVh-xhf_k2bK1FbFhxZar37SSi6xrt7WiFXd=s1360-w1360-h1020
+1051,,,"Epicerie Fine Ivoirienne ""Au Marché de la Côte d'Ivoire""",75018,,epicerie_fine,,,,66 Rue Doudeauville,https://lh3.googleusercontent.com/p/AF1QipM_4c0BQiCZcAbye4NVOytodGzD80zXdW2HVKuz=s1360-w1360-h1020
+1052,,,Kaviari Delikatessen - Villiers,75017,,epicerie_fine,,,,3 Av. de Villiers,https://lh3.googleusercontent.com/p/AF1QipM1msC4Fw2M-ZfSGqRhQycPbfOqJGZYN0szzr-B=s1360-w1360-h1020
+1053,,,Kaviari Delikatessen - St Paul,75004,,epicerie_fine,,,,60 Rue François Miron,https://lh3.googleusercontent.com/p/AF1QipM1msC4Fw2M-ZfSGqRhQycPbfOqJGZYN0szzr-B=s1360-w1360-h1020
+1054,,,Poissonnerie Viot,75006,,poissonerie,,,,"Marché Saint Germain, 4-6 Rue Lobineau",https://lh3.googleusercontent.com/p/AF1QipPyFVUoGnvTozkkOH-VDsTe11qf_qGYk0bOWSMn=s1360-w1360-h1020
+1055,,,Les Apaches,75020,,boucherie,,,,21 Rue des Gâtines,https://lh3.googleusercontent.com/p/AF1QipOs9dfdWcBszRoPzWzJQdzt2Np5a7jLpALPbS0n=s1360-w1360-h1020
+1056,,,Yorgios,75010,,epicerie_fine/moyen_orient,,,,31 Rue d'Hauteville,https://lh3.googleusercontent.com/p/AF1QipPbJ9kDfd-ESZOp-cSs-aIC-QySTyuQ2vfLcrm0=s1360-w1360-h1020
+1057,,,ONOUL_café_épicerie fine coréenne,75015,,epicerie_fine/asiatique,,,,8 Rue Gramme,https://lh3.googleusercontent.com/p/AF1QipP-7i4LCnE-r5GQjFWcVorYfBHUuTW5yxuEgn_6=s1360-w1360-h1020
