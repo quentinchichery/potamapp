@@ -2,9 +2,9 @@
 <div>
   <div class="thumbnail" @click="openModal(id)">
     <div class="caption">
-      {{ Nom }}
+      {{ nom }}
     </div>
-    <img :src="numero +'.jpg'"/>
+    <img :src="id +'.jpg'"/>
   </div> 
 
   <div :id="id" class="modal">
@@ -14,7 +14,7 @@
           <div class="card">
             <div class="card-image">
               <figure class="image is-4by3">
-                <img :src="numero +'.jpg'">
+                <img :src="id +'.jpg'">
               </figure>
             </div>
             <div class="card-content">
@@ -22,7 +22,7 @@
                 <div class="media-left">
                 </div>
                 <div class="media-content">
-                  <p class="title is-4"> {{ Nom }} </p>
+                  <p class="title is-4"> {{ nom }} </p>
                   <p class="subtitle is-6"> {{ adresse }}, {{ ville }} </p>
                 </div>
               </div>
@@ -30,7 +30,7 @@
               <div class="content">
                 <div v-for="item in type" :key="item" id="types"> ~ {{ item }} ~ </div>
                 <br>
-                <a :href="'https://www.google.com/search?q=' + Nom" target="_blank">Lien vers Google</a>
+                <a :href="'https://www.google.com/search?q=' + nom" target="_blank">Lien vers Google</a>
               </div>
             </div>
           </div>
@@ -51,14 +51,12 @@ export default {
     
   },
   props: {
-    numero: String,
     id: String,
-    Nom: String, 
+    nom: String, 
     photo: String, 
     type: Array, 
     adresse: String,
     ville: String, 
-    pays: String,
     long: String,
     lat: String
   },
@@ -76,7 +74,6 @@ export default {
 
 
 <style>
-
 
 img {
     display: block;

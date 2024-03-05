@@ -12,7 +12,7 @@
           <div id="legend_header">
           🍫🍜🍒 <br>
           <a href="https://www.instagram.com/camilledrs" target="_blank">@camilledrs</a> <br>
-          <a href="https://www.instagram.com/quentin_chichery" target="_blank">@quentin_chichery</a> 
+          <a href="https://www.instagram.com/quentinchichery" target="_blank">@quentinchichery</a> 
         </div>
         </div>
       </div>
@@ -31,9 +31,9 @@
 
       <div v-show='contentVisibleTypes'>
         <div class="type_scroll container" >
-          <div v-for="type in Types" v-bind:key="type" class="scroll_items">
-              <input :value="type" type="checkbox" :name="type" :id="type" v-model="Type">
-              <label :for="type">{{type}}</label>
+          <div v-for="item in types" v-bind:key="item" class="scroll_items">
+              <input :value="item" type="checkbox" :name="item" :id="item" v-model="selectedType">
+              <label :for="item">{{item}}</label>
           </div>
       </div>
       </div>
@@ -50,9 +50,9 @@
 
       <div v-show='contentVisibleArrondissements'>
         <div class="type_scroll container">
-          <div v-for="ville in Villes" v-bind:key="ville" class="scroll_items">
-              <input :value="ville" type="checkbox" :name="ville" :id="ville" v-model="Ville">
-              <label :for="ville">{{ville}}</label>
+          <div v-for="item in villes" v-bind:key="item" class="scroll_items">
+              <input :value="item" type="checkbox" :name="item" :id="item" v-model="selectedCity">
+              <label :for="item">{{item}}</label>
           </div>
           </div>
       </div>
@@ -61,26 +61,24 @@
   </div>
 
       <div id="scroll_right" class="column">
-            <div>
-            <tag-input 
-            :types='Type' @clicked="onClickTagType">
+        <div>
+          <tag-input 
+            :types='selectedType' @clicked="onClickTagType">
           </tag-input>
           <tag-input 
-            :types='Ville' @clicked="onClickTagVille">
+            :types='selectedCity' @clicked="onClickTagVille">
           </tag-input>
           </div>
           <div id="grid_places" >
 
               <div v-for= "place in Places" v-bind:key="place">
                 <placeCard 
-                  :id="place.numero.toString()"
-                  :numero="place.numero.toString()"  
-                  :Nom='place.Nom' 
+                  :id="place.id.toString()"
+                  :nom='place.nom' 
                   :photo='place.photo'
-                  :type='place.Type'
+                  :type='place.type'
                   :adresse='place.adresse'
-                  :ville='place.Ville'
-                  :pays='place.Pays'
+                  :ville='place.ville'
                   :long='place.Long'
                   :lat='place.Lat'
                   >
@@ -106,10 +104,10 @@ export default {
   props: {},
   data() {
     return {
-        Type: [], 
-        Ville: [],
-        Types : ["neobistrot","brunch","brasserie","gastronomique","sur le pouce","vege","boulangerie","coffee shop","primeurs","poissonerie","boucherie","cremerie","epicerie fine","patisserie","vins","epices","burger","moyen orient","crepes","italien","asiatique","glace","africain","indien","grec","bar", "chocolatier"],
-        Villes : ["75001","75002","75003","75004","75005","75006","75007","75008","75009","75010","75011","75012","75013","75014","75015","75016","75017","75018","75019","75020"],
+        selectedType: ["coeur"], 
+        selectedCity: [],
+        types : ["coeur", "neobistrot","brunch","brasserie","gastronomique","pouce","vege","boulangerie","coffee","primeur","poissonerie","boucherie","cremerie","epicerie","patisserie","vins","burger","orient","crepes","italien","asiatique","glace","africain","indien","grec", "latino", "bar","the", "chocolatier"],
+        villes : ["75001","75002","75003","75004","75005","75006","75007","75008","75009","75010","75011","75012","75013","75014","75015","75016","75017","75018","75019","75020"],
         Places: [], 
         contentVisibleArrondissements: true,
         contentVisibleTypes: true
@@ -117,27 +115,26 @@ export default {
     }, 
     methods: {
       searchPlaces() {
-          console.log({"Type" : this.Type, "Ville" : this.Ville})
-          axios.post('https://europe-west1-potamapp.cloudfunctions.net/function-1', {"Type" : this.Type, "Ville" : this.Ville}) 
-          // https://carte-des-potams.herokuapp.com/
+          console.log({"Type" : this.selectedType, "Ville" : this.selectedCity})
+          axios.post('https://europe-west1-potamapp.cloudfunctions.net/function-1', {"type" : this.selectedType, "ville" : this.selectedCity}) 
               .then((res) => {
                   console.log(res.data)
-                  this.Places = res.data
+                  this.Places = JSON.parse(res.data)
                   })
               },
-      onClickTagType (index) {
-        this.Type.splice(index, 1)
-        this.searchPlaces()
+    onClickTagType (index) {
+      this.selectedType.splice(index, 1)
+      this.searchPlaces()
     },
     onClickTagVille (index) {
-        this.Ville.splice(index, 1)
+        this.selectedCity.splice(index, 1)
         this.searchPlaces()
     },
     setContentArrondissements() {
-                this.contentVisibleArrondissements = !this.contentVisibleArrondissements
+              this.contentVisibleArrondissements = !this.contentVisibleArrondissements
             },
-            setContentTypes() {
-                this.contentVisibleTypes = !this.contentVisibleTypes
+    setContentTypes() {
+              this.contentVisibleTypes = !this.contentVisibleTypes
             }
     },
     mounted() {
