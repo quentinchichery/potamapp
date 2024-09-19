@@ -60,7 +60,6 @@ id,lat,long,nom,ville,type,adresse
 87,,,Boucherie Le Bourdonnec - Paris 6,75006,boucherie,43 Rue du Cherche-Midi
 88,,,Boucherie Le Bourdonnec - Paris 17,75017,boucherie,51 Rue de Lévis
 89,,,Boucherie Le Bourdonnec - Paris 7,75007,boucherie,208 bis Rue de Grenelle
-91,5.379091,43.2958049,Epicerie l'Ideal,13001,pouce/epicerie/primeur/neobistrot,11 Rue d'Aubagne
 92,2.3516656,48.8909286,La Laiterie de Paris,75018,cremerie/coeur,74 Rue des Poissonniers
 94,2.342127,48.8741,MONBLEU Faubourg Montmartre,75009,cremerie,37 Rue du Faubourg Montmartre
 95,2.316611,48.8347856,Chez Victor,75014,pouce/epicerie/primeur,73 rue Pernety
@@ -224,7 +223,7 @@ id,lat,long,nom,ville,type,adresse
 347,,,LIBERTÉ Paris 9e,75009,boulangerie/patisserie/pouce/brunch,1 rue Hippolyte Lebas
 349,2.3113194,48.9038525,La Rue Palloy Boulangerie.,92110,boulangerie/patisserie,50 Rue Palloy
 350,2.3965835,48.8692197,Pane Vivo,75020,boulangerie,49 Rue de la Chine
-355,2.3113731,48.8849882,Léonie,75017,boulangerie/patisserie/pouce/coeur,96 Rue de Lévis
+355,2.3113731,48.8849882,Léonie,75017,boulangerie/patisserie/pouce,96 Rue de Lévis
 363,2.3883811,48.8746918,La Petite Boulangerie de Belleville,75020,boulangerie,120 Rue de Belleville
 364,2.3213,48.8371939,Boulangerie Un pain à part,75014,boulangerie,4 Place Constantin Brancusi
 365,2.3475155,48.8759316,UNION BOULANGERIE,75009,boulangerie/patisserie/pouce,2 Rue Bleue
@@ -408,10 +407,9 @@ id,lat,long,nom,ville,type,adresse
 645,,,Trois Fois Plus de Piment Levallois,75017,asiatique,117 Rue de Tocqueville
 646,,,Trois Fois Plus de Piment Montmartre,75009,asiatique,9 Rue Rodier
 647,2.3651585,48.8777917,STREET BANGKOK - Canal,75010,asiatique,3 Rue Eugène Varlin
-648,2.3523557,48.8694325,Hero,75002,asiatique,289 Rue Saint-Denis
 649,2.378005,48.8620866,Les Niçois,75011,pouce/brunch,7 Rue Lacharrière
 650,2.3782262,48.861146,La Guinguette d Angèle,75001,pouce/brunch/vege,34 Rue Coquillière
-651,2.3198813,48.8854377,Les frères des Batignolles,75017,pouce/orient,45 Rue des Batignolles
+651,2.3198813,48.8854377,Les frères des Batignolles,75017,pouce/orient/coeur,45 Rue des Batignolles
 652,2.3535652,48.87124,Sette Pizza - Faubourg St-Denis,75010,italien,38 Rue du Faubourg Saint-Denis
 653,,,YAYA SECRÉTAN,75019,pouce/grec,33 Avenue Secrétan
 654,,,YAYA SAINT-OUEN,93400,pouce/grec,8 rue de l'Hippodrome
@@ -446,7 +444,6 @@ id,lat,long,nom,ville,type,adresse
 683,2.3356451,48.8935876,B.O.U.L.O.M,75018,brunch/brasserie/boulangerie/patisserie,181 Rue Ordener
 684,2.3815096,48.8439199,Ground Control,75012,pouce,81 Rue du Charolais
 685,2.3318356,48.8776569,Hanoi Corner,75009,pouce/asiatique/coffee/patisserie,7 Rue Blanche
-689,2.3373551,48.8803279,Chiquitin,75009,latino/pouce,21 Rue Henry Monnier
 690,2.3296211,48.832473,Restaurant Kwon,75014,asiatique,7 Rue Ernest Cresson
 691,,,Miznon - 9,75009,orient/pouce,3 Rue de la Grange Batelière
 692,,,Miznon - 4,75004,orient/pouce,22 Rue des Ecouffes
@@ -578,7 +575,7 @@ id,lat,long,nom,ville,type,adresse
 879,2.3585031,48.8722456,Le Grand Quartier,75010,brasserie/brunch,15 Rue de Nancy
 880,2.385382,48.8665918,Les Canailles Menilmontant,75020,brasserie/neobistrot,15 Rue des Panoyaux
 881,2.3345833,48.8792639,Les Canailles Bruyère,75009,brasserie/neobistrot,25 Rue la Bruyère
-882,2.3400767,48.8933757,étsi - l'ouzeri,75018,grec/neobistrot,41 Rue du Ruisseau
+882,2.3400767,48.8933757,étsi - l'ouzeri,75018,grec/neobistrot/coeur,41 Rue du Ruisseau
 883,2.3199363,48.8835646,Gare au Gorille,75017,neobistrot,68 Rue des Dames
 884,2.3172328,48.888623,Salicorne,75017,neobistrot,11 Rue Brochant
 885,2.3439996,48.8644,DokiDoki - Finest Hand Roll Bar,75001,asiatique,59 Rue Jean-Jacques Rousseau
@@ -616,7 +613,7 @@ id,lat,long,nom,ville,type,adresse
 929,2.3044634,48.8335793,Guillaume Grasso la vera Pizza Napoletana,75015,italien,45 Rue Brancion
 930,2.3318359,48.8486408,Sôma Sando,75006,asiatique/pouce,62 Rue de Vaugirard
 931,2.3666679,48.8801863,ROUND,75010,pouce/burger,25 Rue Louis Blanc
-932,2.3416032,48.8567772,Ha Noi 1988,75001,asiatique,72 Quai des Orfèvres
+932,2.3416032,48.8567772,Ha Noi 1988,75001,asiatique/coeur,72 Quai des Orfèvres
 933,,,FEEL LING,75116,asiatique,24 Rue Lauriston
 934,,,Mi Perú,75012,pouce/brasserie,7 Rue Rondelet
 935,,,Cuties,75002,burger,10 Pass. des Panoramas
@@ -700,7 +697,7 @@ id,lat,long,nom,ville,type,adresse
 1013,,,Jeffrey Cagnes Paris 17ème,75017,patisserie,24 Rue des Moines
 1014,,,Jeffrey Cagnes Paris 2ème,75002,patisserie,73 Rue Montorgueil
 1015,,,Jade Genin,75002,chocolatier,33 Av. de l'Opéra
-1017,,,CAFÉ NUANCES,75001,coffee,25 Rue Danielle Casanova
+1017,,,CAFÉ NUANCES,75001,coffee/coeur,25 Rue Danielle Casanova
 1018,,,laïzé marais,75003,coffee/patisserie/asiatique,19 Rue de Montmorency
 1019,,,Laïzé Opéra,75002,coffee/patisserie/asiatique,68 Pass. Choiseul
 1020,,,Café Pimpin 17,75017,coffee/pouce/brunch,7 Rue Guy Môquet
@@ -715,10 +712,6 @@ id,lat,long,nom,ville,type,adresse
 1029,,,GRAMME PARIS 11,75011,coffee/pouce/brunch/neobistrot,96 Rue Jean-Pierre Timbaud
 1030,,,TOMMASO Café,75003,coffee/patisserie,111 Bd Beaumarchais
 1031,,,Mardi,75019,coffee/pouce/brunch/neobistrot,29 Rue de la Villette
-1032,,,Noir - Coffee Shop & Torréfacteur,75007,coffee,9 Rue de Luynes
-1033,,,Noir - Coffee Shop & Torréfacteur,75008,coffee,120 Bd Haussmann
-1034,,,Noir - Coffee Shop & Torréfacteur,75001,coffee,8 Rue Saint-Florentin
-1035,,,Noir - Coffee Shop & Torréfacteur,75004,coffee,63 Rue Saint-Louis en l'Île
 1036,,,One and a Half,75003,coffee,14 Rue de Bretagne
 1037,,,Café Mātēr,75004,neobistrot,9 Rue du Plâtre
 1038,,,Saint Pearl,75007,coffee/pouce/brunch,38 Rue des Saints-Pères
@@ -726,7 +719,6 @@ id,lat,long,nom,ville,type,adresse
 1040,,,Café Singuliers,75011,coffee/pouce/brunch,2 Rue Titon
 1041,,,Inform Café,75017,coffee/pouce/brunch,25 Rue des Acacias
 1042,,,Café Nuances,75006,coffee,22 Rue du Vieux Colombier
-1043,,,Cafe Content,75011,neobistrot,11 Rue Saint-Maur
 1044,,,Billot Club,75017,boucherie/coeur,105 Av. de Saint-Ouen
 1045,,,Kaviari Delikatessen - Martyrs,75009,epicerie,56 R. des Martyrs
 1046,,,LiMONi,75011,epicerie,20 Rue Saint-Ambroise
@@ -819,7 +811,7 @@ id,lat,long,nom,ville,type,adresse
 1136,,,Christophe Louie,75003,patisserie/boulangerie/coeur,12 Rue Dupetit-Thouars
 1137,,,Manteigaria - Fábrica de Pastéis de Nata France,75003,patisserie,24 Rue Rambuteau
 1138,,,BUDDY BUDDY,75010,patisserie/coffee/coeur,15 Rue de Marseille
-1139,,,Motors Coffee,75001,patisserie/coffee,7 Rue des Halles
+1139,,,Motors Coffee,75001,patisserie/coffee/coeur,7 Rue des Halles
 1140,,,On Partage - Cantine Caféinée,75011,coffee/brunch,137 bis Rue de Charonne
 1141,,,Café Pigalle,75009,coffee/brunch,7 Rue Frochot
 1142,,,Shakespeare and Company Café,75005,patisserie/coffee,35 Rue de la Bûcherie
@@ -875,7 +867,7 @@ id,lat,long,nom,ville,type,adresse
 1192,,,Pristine,75009,neobistrot,"8 Rue de Maubeuge, 75009 Paris"
 1193,,,Paulownia,75020,neobistrot,"15 Rue des Vignoles, 75020 Paris"
 1194,,,Double - Restaurant,75018,neobistrot/asiatique/italien,"87 Rue Lamarck, 75018 Paris"
-1195,,,L'Orillon,75011,neobistrot,"35 Rue de l'Orillon, 75011 Paris"
+1195,,,L'Orillon,75011,neobistrot/coeur,"35 Rue de l'Orillon, 75011 Paris"
 1196,,,ChoCho,75010,neobistrot,"54 Rue de Paradis, 75010 Paris"
 1197,,,Alfred,75001,neobistrot,"8 Rue du Mont Thabor, 75001 Paris"
 1198,,,MOTA,75009,brunch/pouce/coffee,"23 Rue Joubert, 75009 Paris"
@@ -898,7 +890,7 @@ id,lat,long,nom,ville,type,adresse
 1215,,,PonPon Café,75001,coffee/asiatique/patisserie,"3 Rue Molière, 75001 Paris"
 1216,,,I/O Café,75003,coffee,"16 Rue Dupetit-Thouars, 75003 Paris"
 1217,,,Sevenly Heart,75003,coffee/vins/patisserie,"55 Rue des Archives, 75003 Paris"
-1218,,,CHANCEUX Galande,75005,coffee/brunch/pouce,"63 Rue Galande, 75005 Paris"
+1218,,,CHANCEUX Galande,75005,coffee/brunch/pouce/coeur,"63 Rue Galande, 75005 Paris"
 1219,,,CHANCEUX St Maur,75011,coffee/brunch/pouce,"57 Rue Saint-Maur, 75011 Paris"
 1220,,,KAPÉ - Café philippin,75011,coffee/patisserie/brunch,"17 Rue de Malte, 75011 Paris"
 1221,,,Candle Kids,75020,coffee/patisserie,"107 Rue des Couronnes, 75020 Paris"
@@ -911,4 +903,88 @@ id,lat,long,nom,ville,type,adresse
 1228,,,Les Vins Du Matin,75018,neobistrot/vins,"73 Rue Riquet, 75018 Paris"
 1229,,,Le Discobar,75020,bar,"92 Rue Rebeval, 75019 Paris"
 1230,,,Cravan paris,75006,bar,"165 Bd Saint-Germain, 75006 Paris"
-1231,,,,,,
+1231,,,Slice Pizza Club,75008,italien,"24 Rue de la Pépinière, 75008 Paris"
+1232,,,Drogheria Italiana,75011,italien/pouce,"35 Rue Léon Frot, 75011 Paris"
+1233,,,Tanori,75003,asiatique/pouce,"12 Rue Volta, 75003 Paris"
+1234,,,The SLICERIE,75009,italien,"13 Rue Marguerite de Rochechouart, 75009 Paris"
+1235,,,INE,75010,asiatique/pouce,"29 Rue d'Enghien, 75010 Paris"
+1236,,,BUCK - Fried Chicken & Wine,75011,burger/pouce,"25 Rue de la Forge Royale, 75011 Paris"
+1237,,,Baby Love Burger Marais,75003,burger/pouce,"105 Rue Vieille du Temple, 75003 Paris"
+1238,,,Blossom Burgers,75010,burger/pouce,"26 Rue de Chabrol, 75010 Paris"
+1239,,,The Blossom Arms,75017,brasserie,"17 Rue Guy Môquet, 75017 Paris"
+1240,,,Dogma,75010,burger/pouce,"10 R. des Petites Écuries, 75010 Paris"
+1241,,,Jay's pizza,75010,italien/pouce,"20 Rue de Mazagran, 75010 Paris"
+1242,,,MELT DELI - Halles,75001,burger/pouce,"20 Rue des Halles, 75001 Paris"
+1243,,,MELT DELI - Rochechouart,75009,burger/pouce,"76 Rue Marguerite de Rochechouart, 75009 Paris"
+1244,,,Will's Deli - Oberkampf,75011,burger/pouce,"101 Rue Oberkampf, 75011 Paris"
+1245,,,Will's Deli - Poissonnière,75002,burger/pouce,"28 Rue Poissonnière, 75002 Paris"
+1246,,,One & One Paris,75002,burger,"7 Pass. des Panoramas, 75002 Paris"
+1247,,,4M2,75003,asiatique/pouce,"4 Rue Charles-François Dupuis, 75003 Paris"
+1248,,,La cuisine de Souad,93500,orient,"14 Av. Edouard Vaillant, 93500 Pantin"
+1249,,,GHIDO RAMEN,75010,asiatique,"77 Rue du Faubourg Saint-Martin, 75010 Paris"
+1250,,,Sammy and Joe paris,75011,pouce/coffee,"124 Rue du Chemin Vert, 75011 Paris"
+1251,,,O Durum,93400,orient/pouce,"32 Bd Jean Jaurès, 93400 Saint-Ouen-sur-Seine"
+1252,,,Halo Paris,75002,neobistrot,"12 Rue Saint-Sauveur, 75002 Paris"
+1253,,,Brion Restaurant par Geoffrey Lengagne,75009,neobistrot,"17 Rue Lamartine, 75009 Paris"
+1254,,,Le Cadoret,75019,neobistrot,"1 Rue Pradier, 75019 Paris"
+1255,,,Les Pères Populaires,75020,brasserie,"46 Rue de Buzenval, 75020 Paris"
+1256,,,Caluche,75005,neobistrot,"12 Rue de Mirbel, 75005 Paris"
+1257,,,Restaurant Janine,75017,neobistrot,"90 Rue des Dames, 75017 Paris"
+1258,,,Public House Paris,75002,brasserie,"21 Rue Daunou, 75002 Paris"
+1259,,,19 SAINT ROCH.,75001,neobistrot,"19 Rue Saint-Roch, 75001 Paris"
+1260,,,Cavalier.,75011,neobistrot,"22 Rue du Faubourg du Temple, 75011 Paris"
+1261,,,Majouja,75009,orient/pouce,"43 Rue Laffitte, 75009 Paris"
+1262,,,Galette Café,75007,crepes,"2 Rue de l'Université, 75007 Paris"
+1263,,,Restaurant Ventrus - Parc de La Villette,75019,neobistrot,"croisement du canal de l'Ourcq et du canal Saint-Denis, 1 All. du Canal, 75019 Paris"
+1264,,,Micho,75001,neobistrot/pouce/coeur,"46 Rue de Richelieu, 75001 Paris"
+1265,,,Altro Frenchie,75002,italien/neobistrot,"9 Rue du Nil, 75002 Paris"
+1266,,,L'arpaon,75018,neobistrot,"57 Rue Montcalm, 75018 Paris"
+1267,,,DANDELION,75020,neobistrot/coeur,"46 Rue des Vignoles, 75020 Paris"
+1268,,,Superposé,75011,neobistrot,"103 Rue Saint-Maur, 75011 Paris"
+1269,,,Trouble,75009,neobistrot,"15 Rue Hippolyte Lebas, 75009 Paris"
+1270,,,OOBATZ,75011,italien/coeur,"4bis Av. Jean Aicard, 75011 Paris"
+1271,,,Mojju,75007,asiatique,"4 Rue de l'Exposition, 75007 Paris"
+1272,,,YUJIN,75002,asiatique,"53 Pass. des Panoramas, 75002 Paris"
+1273,,,Le Mary Celeste,75003,neobistrot,"1 Rue Commines, 75003 Paris"
+1274,,,Fellows - Restaurant Paris 10,75010,neobistrot,"84 Rue du Faubourg Saint-Denis, 75010 Paris"
+1275,,,RORI,75011,italien,"96 Rue Jean-Pierre Timbaud, 75011 Paris"
+1276,,,Scarpetta,75009,italien,"72 Rue Marguerite de Rochechouart, 75009 Paris"
+1277,,,Rosette,92110,brasserie,"77 Rue de Paris, 92110 Clichy"
+1278,,,Le Cornichon,75011,neobistrot,"2 Rue des Goncourt, 75011 Paris"
+1279,,,L'Attache,75011,neobistrot,"52 Rue Basfroi, 75011 Paris"
+1280,,,Café les Deux Gares,75010,neobistrot,"1 Rue des Deux Gares, 75010 Paris"
+1281,,,Crêperie Armelle - Bourse Paris 2,75002,crepes,"7 Rue Saint-Marc, 75002 Paris"
+1282,,,Pluto,75004,neobistrot,"44 Rue Sainte-Croix de la Bretonnerie, 75004 Paris"
+1283,,,Panorama,75011,neobistrot,"153 Rue Saint-Maur, 75011 Paris"
+1284,,,hubo,75008,pouce,"41 Rue de Londres, 75008 Paris"
+1285,,,TRÂM 130,75011,neobistrot,"130 Rue Saint-Maur, 75011 Paris"
+1286,,,Cendrillon,75020,neobistrot,"50 Rue Piat, 75020 Paris"
+1287,,,Adami,75009,neobistrot,"19bis Rue Pierre Fontaine, 75009 Paris"
+1288,,,Le Pain Retrouvé - Boulangerie Pâtisserie à Paris,75009,boulangerie,"18 R. des Martyrs, 75009 Paris"
+1289,,,Boulangerie EVEIL,75017,boulangerie/coeur,"100 Rue Legendre, 75017 Paris"
+1290,,,Atelier P1 Pantin,93500,boulangerie,"41 bis Rue Hoche, 93500 Pantin"
+1291,,,JJ Hings Ice Cream,75010,glace/coeur,"46 Rue Bichat, 75010 Paris"
+1292,,,Broken Biscuits,75010,patisserie/pouce/coffee,"18 Rue du Faubourg Poissonnière, 75010 Paris"
+1293,,,REŸS - Glaces Eternelles,75004,glace,"4 Rue du Bourg Tibourg, 75004 Paris"
+1294,,,Café Nuances,75008,coffee,"10 Rue de la Tremoille, 75008 Paris"
+1295,,,Vague Coffee - Batignolles Paris 17,75017,coffee/pouce,"76 Rue Boursault, 75017 Paris"
+1296,,,Kawa Coffee - La boutique,75003,coffee,"96 Rue des Archives, 75003 Paris"
+1297,,,Kawa Coffee - Victoria,75001,coffee,"22 Av. Victoria, 75001 Paris"
+1298,,,FAUNA,75011,coffee/brunch,"12 Rue Oberkampf, 75011 Paris"
+1299,,,Café du Clown Coffee Shop,75006,coffee,"6 Rue Lobineau, 75006 Paris"
+1300,,,Simple Coffee Paris,75018,coffee/brunch,"78 R. des Martyrs, 75018 Paris"
+1301,,,CORTADO COFFEE,75003,coffee/brunch/pouce,"31 Rue Charlot, 75003 Paris"
+1302,,,GRAVE,75003,coffee,"34 Rue des Gravilliers, 75003 Paris"
+1303,,,SAMPLE CAFE PARIS,75003,coffee,"5 Rue Notre Dame de Nazareth, 75003 Paris"
+1304,,,"Moonlight café, coffee shop, specialty coffee",75003,coffee,"27 Rue des Gravilliers, 75003 Paris"
+1305,,,Dreamin Man Roastery,75001,coffee/brunch/pouce,"31 Rue Coquillière, 75001 Paris"
+1306,,,CAFE SHIN,75010,coffee,"47 R. des Petites Écuries, 75010 Paris"
+1307,,,Chaize,75020,coffee,"24 Bd de Ménilmontant, 75020 Paris"
+1308,,,Alba Coffee Roasters,75018,coffee,"62 Rue du Ruisseau, 75018 Paris"
+1309,,,Au Bec Fin Paris,75017,boucherie/coeur,"46 Rue des Batignolles, 75017 Paris"
+1310,,,Le champ des rêves,75017,primeur,"25 Rue de La Jonquière, 75017 Paris"
+1311,,,Miyam Beaubourg,75003,primeur,"82 Rue Beaubourg, 75003 Paris"
+1312,,,ACE MART LOUVRE,75001,epicerie,"3 Rue du Louvre, 75001 Paris"
+1313,,,Miyam Poteau,75018,epicerie/coeur,"11 Rue du Poteau, 75018 Paris"
+1314,,,Miyam Aligre,75011,epicerie,"161 Rue du Faubourg Saint-Antoine, 75011 Paris"
+1315,,,Fromagerie Double Crème,93500,cremerie,"31 Rue Méhul, 93500 Pantin"
