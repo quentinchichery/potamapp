@@ -2,3 +2,5 @@
 potamfront/node_modules/
 potamback/connexion_string.txt
 __pycache__/
+potam-app/
+pictures/
